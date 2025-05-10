@@ -1,0 +1,1637 @@
+[2025-03-18T11:25:01.974Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:25:01.985Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:25:01.986Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:25:02.041Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19000
+[2025-03-18T11:25:02.043Z] STATUS: sys_proxy_server :  outlook.live.com, 443
+[2025-03-18T11:25:02.043Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:25:02.044Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:25:02.047Z] STATUS: WSS_ConServer_IS_HTTPS 443 : outlook.live.com:443 , listen_port:19001
+[2025-03-18T11:25:02.198Z] STATUS: sys_proxy_server :  ssl.gstatic.com, 443
+[2025-03-18T11:25:02.200Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:25:02.201Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:25:02.210Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ssl.gstatic.com:443 , listen_port:19002
+[2025-03-18T11:25:02.216Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:25:02.217Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:25:02.218Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:25:02.223Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19003
+[2025-03-18T11:25:02.226Z] STATUS: sys_proxy_server :  outlook.live.com, 443
+[2025-03-18T11:25:02.227Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:25:02.227Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:25:02.232Z] STATUS: WSS_ConServer_IS_HTTPS 443 : outlook.live.com:443 , listen_port:19004
+[2025-03-18T11:25:03.195Z] STATUS: sys_proxy_server :  pub-csm-uswe-01-t.trouter.skype.com, 443
+[2025-03-18T11:25:03.195Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:25:03.196Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:25:03.198Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-uswe-01-t.trouter.skype.com:443 , listen_port:19005
+[2025-03-18T11:25:03.309Z] STATUS: sys_proxy_server :  mobile.events.data.microsoft.com, 443
+[2025-03-18T11:25:03.311Z] STATUS: sys_proxy_server :  19006
+[2025-03-18T11:25:03.313Z] STATUS: upsetHttpsCon :  19006, 443
+[2025-03-18T11:25:03.319Z] STATUS: WSS_ConServer_IS_HTTPS 443 : mobile.events.data.microsoft.com:443 , listen_port:19006
+[2025-03-18T11:25:03.413Z] STATUS: sys_proxy_server :  clients2.google.com, 443
+[2025-03-18T11:25:03.414Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:25:03.417Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:25:03.424Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients2.google.com:443 , listen_port:19007
+[2025-03-18T11:25:03.427Z] STATUS: sys_proxy_server :  beacons5.gvt2.com, 443
+[2025-03-18T11:25:03.429Z] STATUS: sys_proxy_server :  19008
+[2025-03-18T11:25:03.431Z] STATUS: upsetHttpsCon :  19008, 443
+[2025-03-18T11:25:03.439Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons5.gvt2.com:443 , listen_port:19008
+[2025-03-18T11:25:03.490Z] STATUS: sys_proxy_server :  docs.google.com, 443
+[2025-03-18T11:25:03.490Z] STATUS: sys_proxy_server :  19009
+[2025-03-18T11:25:03.493Z] STATUS: upsetHttpsCon :  19009, 443
+[2025-03-18T11:25:03.497Z] STATUS: WSS_ConServer_IS_HTTPS 443 : docs.google.com:443 , listen_port:19009
+[2025-03-18T11:25:03.802Z] STATUS: sys_proxy_server :  docs.google.com, 443
+[2025-03-18T11:25:03.803Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:25:03.804Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:25:03.809Z] STATUS: WSS_ConServer_IS_HTTPS 443 : docs.google.com:443 , listen_port:19010
+[2025-03-18T11:25:04.634Z] STATUS: sys_proxy_server :  e2c54.gcp.gvt2.com, 443
+[2025-03-18T11:25:04.635Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:25:04.636Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:25:04.640Z] STATUS: WSS_ConServer_IS_HTTPS 443 : e2c54.gcp.gvt2.com:443 , listen_port:19010
+[2025-03-18T11:25:06.042Z] STATUS: sys_proxy_server :  pub-csm-uswe-01-t.trouter.skype.com, 443
+[2025-03-18T11:25:06.044Z] STATUS: sys_proxy_server :  19011
+[2025-03-18T11:25:06.048Z] STATUS: upsetHttpsCon :  19011, 443
+[2025-03-18T11:25:06.055Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-uswe-01-t.trouter.skype.com:443 , listen_port:19011
+[2025-03-18T11:25:06.536Z] STATUS: sys_proxy_server :  beacons5.gvt3.com, 443
+[2025-03-18T11:25:06.537Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:25:06.541Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:25:06.550Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons5.gvt3.com:443 , listen_port:19012
+[2025-03-18T11:25:06.562Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:25:06.563Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:25:06.566Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:25:06.570Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19013
+[2025-03-18T11:25:08.062Z] STATUS: sys_proxy_server :  translate.google.com, 443
+[2025-03-18T11:25:08.064Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:25:08.067Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:25:08.071Z] STATUS: sys_proxy_server :  a.nel.cloudflare.com, 443
+[2025-03-18T11:25:08.072Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:25:08.074Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:25:08.081Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.google.com:443 , listen_port:19014
+[2025-03-18T11:25:08.084Z] STATUS: WSS_ConServer_IS_HTTPS 443 : a.nel.cloudflare.com:443 , listen_port:19015
+[2025-03-18T11:25:08.730Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:25:08.731Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:25:08.735Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:25:08.742Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19016
+[2025-03-18T11:25:08.830Z] STATUS: sys_proxy_server :  emea.presence.skype.com, 443
+[2025-03-18T11:25:08.831Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:25:08.833Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:25:08.837Z] STATUS: WSS_ConServer_IS_HTTPS 443 : emea.presence.skype.com:443 , listen_port:19017
+[2025-03-18T11:25:08.838Z] STATUS: sys_proxy_server :  prod.registrar.skype.com, 443
+[2025-03-18T11:25:08.839Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:25:08.840Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:25:08.843Z] STATUS: WSS_ConServer_IS_HTTPS 443 : prod.registrar.skype.com:443 , listen_port:19018
+[2025-03-18T11:25:10.192Z] STATUS: sys_proxy_server :  www.ixbrowser.com, 443
+[2025-03-18T11:25:10.193Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:25:10.194Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:25:10.198Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.ixbrowser.com:443 , listen_port:19019
+[2025-03-18T11:25:10.322Z] STATUS: sys_proxy_server :  edge.microsoft.com, 443
+[2025-03-18T11:25:10.323Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:25:10.324Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:25:10.328Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.microsoft.com:443 , listen_port:19020
+[2025-03-18T11:25:10.503Z] STATUS: sys_proxy_server :  emea.presence.skype.com, 443
+[2025-03-18T11:25:10.503Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:25:10.504Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:25:10.507Z] STATUS: WSS_ConServer_IS_HTTPS 443 : emea.presence.skype.com:443 , listen_port:19021
+[2025-03-18T11:25:11.504Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:25:11.505Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:25:11.508Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:25:11.513Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19010
+[2025-03-18T11:25:12.679Z] STATUS: sys_proxy_server :  optimizationguide-pa.googleapis.com, 443
+[2025-03-18T11:25:12.680Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:25:12.681Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:25:12.685Z] STATUS: WSS_ConServer_IS_HTTPS 443 : optimizationguide-pa.googleapis.com:443 , listen_port:19018
+[2025-03-18T11:25:12.687Z] STATUS: sys_proxy_server :  en.wikipedia.org, 443
+[2025-03-18T11:25:12.687Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:25:12.688Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:25:12.690Z] STATUS: WSS_ConServer_IS_HTTPS 443 : en.wikipedia.org:443 , listen_port:19021
+[2025-03-18T11:25:13.006Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:25:13.010Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:25:13.013Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:25:13.019Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19022
+[2025-03-18T11:25:13.150Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:25:13.152Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:25:13.153Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:25:13.160Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19023
+[2025-03-18T11:25:13.462Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:25:13.462Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:25:13.463Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:25:13.466Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:25:13.466Z] STATUS: sys_proxy_server :  19024
+[2025-03-18T11:25:13.467Z] STATUS: upsetHttpsCon :  19024, 443
+[2025-03-18T11:25:13.468Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:25:13.469Z] STATUS: sys_proxy_server :  19025
+[2025-03-18T11:25:13.469Z] STATUS: upsetHttpsCon :  19025, 443
+[2025-03-18T11:25:13.471Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:25:13.471Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:25:13.471Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:25:13.474Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19022
+[2025-03-18T11:25:13.475Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:25:13.476Z] STATUS: sys_proxy_server :  19027
+[2025-03-18T11:25:13.478Z] STATUS: upsetHttpsCon :  19027, 443
+[2025-03-18T11:25:13.480Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19024
+[2025-03-18T11:25:13.482Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19025
+[2025-03-18T11:25:13.484Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19026
+[2025-03-18T11:25:13.486Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19027
+[2025-03-18T11:25:14.127Z] STATUS: sys_proxy_server :  v10.events.data.microsoft.com, 443
+[2025-03-18T11:25:14.129Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:25:14.133Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:25:14.142Z] STATUS: WSS_ConServer_IS_HTTPS 443 : v10.events.data.microsoft.com:443 , listen_port:19028
+[2025-03-18T11:25:14.445Z] STATUS: sys_proxy_server :  upload.wikimedia.org, 443
+[2025-03-18T11:25:14.447Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:25:14.448Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:25:14.451Z] STATUS: WSS_ConServer_IS_HTTPS 443 : upload.wikimedia.org:443 , listen_port:19022
+[2025-03-18T11:25:14.597Z] STATUS: sys_proxy_server :  translate.googleapis.com, 443
+[2025-03-18T11:25:14.599Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:25:14.602Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:25:14.607Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.googleapis.com:443 , listen_port:19023
+[2025-03-18T11:25:14.706Z] STATUS: sys_proxy_server :  content-autofill.googleapis.com, 443
+[2025-03-18T11:25:14.707Z] STATUS: sys_proxy_server :  19024
+[2025-03-18T11:25:14.708Z] STATUS: upsetHttpsCon :  19024, 443
+[2025-03-18T11:25:14.711Z] STATUS: WSS_ConServer_IS_HTTPS 443 : content-autofill.googleapis.com:443 , listen_port:19024
+[2025-03-18T11:25:19.240Z] STATUS: sys_proxy_server :  mtalk.google.com, 5228
+[2025-03-18T11:25:19.242Z] STATUS: sys_proxy_server :  19025
+[2025-03-18T11:25:19.243Z] STATUS: upsetHttpsCon :  19025, 5228
+[2025-03-18T11:25:19.247Z] STATUS: WSS_ConServer_IS_HTTPS 443 : mtalk.google.com:5228 , listen_port:19025
+[2025-03-18T11:25:22.195Z] STATUS: sys_proxy_server :  pub-ent-ussc-03-t.trouter.teams.microsoft.com, 443
+[2025-03-18T11:25:22.197Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:25:22.201Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:25:22.209Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-ent-ussc-03-t.trouter.teams.microsoft.com:443 , listen_port:19026
+[2025-03-18T11:25:23.857Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:25:23.859Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:25:23.862Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:25:23.869Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19029
+[2025-03-18T11:25:24.717Z] STATUS: sys_proxy_server :  pub-ent-ussc-03-t.trouter.teams.microsoft.com, 443
+[2025-03-18T11:25:24.718Z] STATUS: sys_proxy_server :  19030
+[2025-03-18T11:25:24.722Z] STATUS: upsetHttpsCon :  19030, 443
+[2025-03-18T11:25:24.728Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-ent-ussc-03-t.trouter.teams.microsoft.com:443 , listen_port:19030
+[2025-03-18T11:25:25.135Z] STATUS: sys_proxy_server :  lh5.googleusercontent.com, 443
+[2025-03-18T11:25:25.136Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:25:25.138Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:25:25.141Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh5.googleusercontent.com:443 , listen_port:19031
+[2025-03-18T11:25:25.172Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:25:25.173Z] STATUS: sys_proxy_server :  19032
+[2025-03-18T11:25:25.174Z] STATUS: upsetHttpsCon :  19032, 443
+[2025-03-18T11:25:25.176Z] STATUS: sys_proxy_server :  fonts.gstatic.com, 443
+[2025-03-18T11:25:25.177Z] STATUS: sys_proxy_server :  19033
+[2025-03-18T11:25:25.181Z] STATUS: upsetHttpsCon :  19033, 443
+[2025-03-18T11:25:25.184Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19032
+[2025-03-18T11:25:25.189Z] STATUS: WSS_ConServer_IS_HTTPS 443 : fonts.gstatic.com:443 , listen_port:19033
+[2025-03-18T11:25:25.969Z] STATUS: sys_proxy_server :  lh3.google.com, 443
+[2025-03-18T11:25:25.973Z] STATUS: sys_proxy_server :  19034
+[2025-03-18T11:25:25.975Z] STATUS: upsetHttpsCon :  19034, 443
+[2025-03-18T11:25:25.978Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh3.google.com:443 , listen_port:19034
+[2025-03-18T11:25:25.990Z] STATUS: sys_proxy_server :  www.googleadservices.com, 443
+[2025-03-18T11:25:25.992Z] STATUS: sys_proxy_server :  19035
+[2025-03-18T11:25:25.994Z] STATUS: upsetHttpsCon :  19035, 443
+[2025-03-18T11:25:25.999Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.googleadservices.com:443 , listen_port:19035
+[2025-03-18T11:25:26.075Z] STATUS: sys_proxy_server :  alive.github.com, 443
+[2025-03-18T11:25:26.075Z] STATUS: sys_proxy_server :  19036
+[2025-03-18T11:25:26.076Z] STATUS: upsetHttpsCon :  19036, 443
+[2025-03-18T11:25:26.080Z] STATUS: WSS_ConServer_IS_HTTPS 443 : alive.github.com:443 , listen_port:19036
+[2025-03-18T11:25:27.142Z] STATUS: sys_proxy_server :  ogads-pa.clients6.google.com, 443
+[2025-03-18T11:25:27.143Z] STATUS: sys_proxy_server :  19037
+[2025-03-18T11:25:27.144Z] STATUS: upsetHttpsCon :  19037, 443
+[2025-03-18T11:25:27.148Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ogads-pa.clients6.google.com:443 , listen_port:19037
+[2025-03-18T11:25:27.201Z] STATUS: sys_proxy_server :  teams.live.com, 443
+[2025-03-18T11:25:27.203Z] STATUS: sys_proxy_server :  19038
+[2025-03-18T11:25:27.203Z] STATUS: upsetHttpsCon :  19038, 443
+[2025-03-18T11:25:27.210Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.live.com:443 , listen_port:19038
+[2025-03-18T11:25:27.217Z] STATUS: sys_proxy_server :  lh3.googleusercontent.com, 443
+[2025-03-18T11:25:27.218Z] STATUS: sys_proxy_server :  19039
+[2025-03-18T11:25:27.219Z] STATUS: upsetHttpsCon :  19039, 443
+[2025-03-18T11:25:27.222Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh3.googleusercontent.com:443 , listen_port:19039
+[2025-03-18T11:25:27.289Z] STATUS: sys_proxy_server :  teams.microsoft.com, 443
+[2025-03-18T11:25:27.289Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:25:27.292Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:25:27.296Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.microsoft.com:443 , listen_port:19003
+[2025-03-18T11:25:27.563Z] STATUS: sys_proxy_server :  pub-csm-euwe-00-t.trouter.skype.com, 443
+[2025-03-18T11:25:27.565Z] STATUS: sys_proxy_server :  19033
+[2025-03-18T11:25:27.566Z] STATUS: upsetHttpsCon :  19033, 443
+[2025-03-18T11:25:27.571Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-euwe-00-t.trouter.skype.com:443 , listen_port:19033
+[2025-03-18T11:25:27.574Z] STATUS: sys_proxy_server :  msgapi.teams.live.com, 443
+[2025-03-18T11:25:27.575Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:25:27.577Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:25:27.580Z] STATUS: WSS_ConServer_IS_HTTPS 443 : msgapi.teams.live.com:443 , listen_port:19004
+[2025-03-18T11:25:27.594Z] STATUS: sys_proxy_server :  static-asm.secure.skypeassets.com, 443
+[2025-03-18T11:25:27.595Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:25:27.600Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:25:27.602Z] STATUS: sys_proxy_server :  teams.microsoft.com, 443
+[2025-03-18T11:25:27.604Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:25:27.605Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:25:27.614Z] STATUS: WSS_ConServer_IS_HTTPS 443 : static-asm.secure.skypeassets.com:443 , listen_port:19007
+[2025-03-18T11:25:27.618Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.microsoft.com:443 , listen_port:19016
+[2025-03-18T11:25:28.466Z] STATUS: sys_proxy_server :  api.monica.im, 443
+[2025-03-18T11:25:28.466Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:25:28.468Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:25:28.471Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.monica.im:443 , listen_port:19000
+[2025-03-18T11:25:28.776Z] STATUS: sys_proxy_server :  api.monica.im, 443
+[2025-03-18T11:25:28.776Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:25:28.777Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:25:28.781Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.monica.im:443 , listen_port:19001
+[2025-03-18T11:25:29.221Z] STATUS: sys_proxy_server :  browser.pipe.aria.microsoft.com, 443
+[2025-03-18T11:25:29.222Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:25:29.224Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:25:29.233Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser.pipe.aria.microsoft.com:443 , listen_port:19002
+[2025-03-18T11:25:29.304Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:25:29.306Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:25:29.307Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:25:29.310Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19005
+[2025-03-18T11:25:29.563Z] STATUS: sys_proxy_server :  outlook.live.com, 443
+[2025-03-18T11:25:29.571Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:25:29.572Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:25:29.577Z] STATUS: WSS_ConServer_IS_HTTPS 443 : outlook.live.com:443 , listen_port:19001
+[2025-03-18T11:25:29.741Z] STATUS: sys_proxy_server :  statics.teams.cdn.live.net, 443
+[2025-03-18T11:25:29.742Z] STATUS: sys_proxy_server :  19008
+[2025-03-18T11:25:29.744Z] STATUS: upsetHttpsCon :  19008, 443
+[2025-03-18T11:25:29.747Z] STATUS: WSS_ConServer_IS_HTTPS 443 : statics.teams.cdn.live.net:443 , listen_port:19008
+[2025-03-18T11:25:29.795Z] STATUS: sys_proxy_server :  config.teams.microsoft.com, 443
+[2025-03-18T11:25:29.795Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:25:29.796Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:25:29.800Z] STATUS: WSS_ConServer_IS_HTTPS 443 : config.teams.microsoft.com:443 , listen_port:19012
+[2025-03-18T11:25:29.818Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:25:29.819Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:25:29.819Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:25:29.821Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19013
+[2025-03-18T11:25:29.832Z] STATUS: sys_proxy_server :  statics.teams.cdn.live.net, 443
+[2025-03-18T11:25:29.833Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:25:29.834Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:25:29.836Z] STATUS: WSS_ConServer_IS_HTTPS 443 : statics.teams.cdn.live.net:443 , listen_port:19014
+[2025-03-18T11:25:29.970Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:25:29.970Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:25:29.973Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:25:29.976Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19015
+[2025-03-18T11:25:29.991Z] STATUS: sys_proxy_server :  s2.googleusercontent.com, 443
+[2025-03-18T11:25:29.992Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:25:29.992Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:25:29.995Z] STATUS: WSS_ConServer_IS_HTTPS 443 : s2.googleusercontent.com:443 , listen_port:19016
+[2025-03-18T11:25:30.033Z] STATUS: sys_proxy_server :  res-1.cdn.office.net, 443
+[2025-03-18T11:25:30.035Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:25:30.036Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:25:30.040Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res-1.cdn.office.net:443 , listen_port:19017
+[2025-03-18T11:25:30.041Z] STATUS: sys_proxy_server :  login.microsoftonline.com, 443
+[2025-03-18T11:25:30.042Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:25:30.042Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:25:30.046Z] STATUS: WSS_ConServer_IS_HTTPS 443 : login.microsoftonline.com:443 , listen_port:19018
+[2025-03-18T11:25:30.152Z] STATUS: sys_proxy_server :  statics.teams.cdn.live.net, 443
+[2025-03-18T11:25:30.153Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:25:30.154Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:25:30.156Z] STATUS: sys_proxy_server :  statics.teams.cdn.live.net, 443
+[2025-03-18T11:25:30.157Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:25:30.157Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:25:30.158Z] STATUS: sys_proxy_server :  statics.teams.cdn.live.net, 443
+[2025-03-18T11:25:30.159Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:25:30.159Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:25:30.161Z] STATUS: WSS_ConServer_IS_HTTPS 443 : statics.teams.cdn.live.net:443 , listen_port:19020
+[2025-03-18T11:25:30.163Z] STATUS: WSS_ConServer_IS_HTTPS 443 : statics.teams.cdn.live.net:443 , listen_port:19021
+[2025-03-18T11:25:30.165Z] STATUS: WSS_ConServer_IS_HTTPS 443 : statics.teams.cdn.live.net:443 , listen_port:19022
+[2025-03-18T11:25:30.199Z] STATUS: sys_proxy_server :  outlook.live.com, 443
+[2025-03-18T11:25:30.199Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:25:30.202Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:25:30.205Z] STATUS: WSS_ConServer_IS_HTTPS 443 : outlook.live.com:443 , listen_port:19023
+[2025-03-18T11:25:30.469Z] STATUS: sys_proxy_server :  pub-csm-euwe-00-t.trouter.skype.com, 443
+[2025-03-18T11:25:30.469Z] STATUS: sys_proxy_server :  19024
+[2025-03-18T11:25:30.471Z] STATUS: upsetHttpsCon :  19024, 443
+[2025-03-18T11:25:30.474Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-euwe-00-t.trouter.skype.com:443 , listen_port:19024
+[2025-03-18T11:25:30.494Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:25:30.495Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:25:30.495Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:25:30.498Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19026
+[2025-03-18T11:25:31.041Z] STATUS: sys_proxy_server :  statics.teams.cdn.live.net, 443
+[2025-03-18T11:25:31.042Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:25:31.043Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:25:31.047Z] STATUS: WSS_ConServer_IS_HTTPS 443 : statics.teams.cdn.live.net:443 , listen_port:19020
+[2025-03-18T11:25:31.168Z] STATUS: sys_proxy_server :  res.public.onecdn.static.microsoft, 443
+[2025-03-18T11:25:31.173Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:25:31.176Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:25:31.179Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res.public.onecdn.static.microsoft:443 , listen_port:19021
+[2025-03-18T11:25:31.473Z] STATUS: sys_proxy_server :  res.public.onecdn.static.microsoft, 443
+[2025-03-18T11:25:31.474Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:25:31.476Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:25:31.478Z] STATUS: sys_proxy_server :  res.public.onecdn.static.microsoft, 443
+[2025-03-18T11:25:31.479Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:25:31.479Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:25:31.481Z] STATUS: sys_proxy_server :  beacons.gvt2.com, 443
+[2025-03-18T11:25:31.481Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:25:31.482Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:25:31.483Z] STATUS: sys_proxy_server :  res.public.onecdn.static.microsoft, 443
+[2025-03-18T11:25:31.483Z] STATUS: sys_proxy_server :  19027
+[2025-03-18T11:25:31.484Z] STATUS: upsetHttpsCon :  19027, 443
+[2025-03-18T11:25:31.486Z] STATUS: sys_proxy_server :  res.public.onecdn.static.microsoft, 443
+[2025-03-18T11:25:31.486Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:25:31.487Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:25:31.488Z] STATUS: sys_proxy_server :  res.public.onecdn.static.microsoft, 443
+[2025-03-18T11:25:31.489Z] STATUS: sys_proxy_server :  19032
+[2025-03-18T11:25:31.490Z] STATUS: upsetHttpsCon :  19032, 443
+[2025-03-18T11:25:31.495Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res.public.onecdn.static.microsoft:443 , listen_port:19001
+[2025-03-18T11:25:31.498Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res.public.onecdn.static.microsoft:443 , listen_port:19022
+[2025-03-18T11:25:31.500Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gvt2.com:443 , listen_port:19026
+[2025-03-18T11:25:31.502Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res.public.onecdn.static.microsoft:443 , listen_port:19027
+[2025-03-18T11:25:31.504Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res.public.onecdn.static.microsoft:443 , listen_port:19029
+[2025-03-18T11:25:31.506Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res.public.onecdn.static.microsoft:443 , listen_port:19032
+[2025-03-18T11:25:31.684Z] STATUS: sys_proxy_server :  browser.events.data.microsoft.com, 443
+[2025-03-18T11:25:31.684Z] STATUS: sys_proxy_server :  19034
+[2025-03-18T11:25:31.686Z] STATUS: upsetHttpsCon :  19034, 443
+[2025-03-18T11:25:31.689Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser.events.data.microsoft.com:443 , listen_port:19034
+[2025-03-18T11:25:31.691Z] STATUS: sys_proxy_server :  consent.config.office.com, 443
+[2025-03-18T11:25:31.692Z] STATUS: sys_proxy_server :  19035
+[2025-03-18T11:25:31.692Z] STATUS: upsetHttpsCon :  19035, 443
+[2025-03-18T11:25:31.695Z] STATUS: WSS_ConServer_IS_HTTPS 443 : consent.config.office.com:443 , listen_port:19035
+[2025-03-18T11:25:31.828Z] STATUS: sys_proxy_server :  loki.delve.office.com, 443
+[2025-03-18T11:25:31.829Z] STATUS: sys_proxy_server :  19040
+[2025-03-18T11:25:31.831Z] STATUS: upsetHttpsCon :  19040, 443
+[2025-03-18T11:25:31.834Z] STATUS: WSS_ConServer_IS_HTTPS 443 : loki.delve.office.com:443 , listen_port:19040
+[2025-03-18T11:25:32.190Z] STATUS: sys_proxy_server :  t1.gstatic.com, 443
+[2025-03-18T11:25:32.191Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:25:32.193Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:25:32.196Z] STATUS: WSS_ConServer_IS_HTTPS 443 : t1.gstatic.com:443 , listen_port:19001
+[2025-03-18T11:25:32.330Z] STATUS: sys_proxy_server :  edge.skype.com, 443
+[2025-03-18T11:25:32.331Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:25:32.332Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:25:32.335Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.skype.com:443 , listen_port:19017
+[2025-03-18T11:25:32.380Z] STATUS: sys_proxy_server :  browser.events.data.microsoft.com, 443
+[2025-03-18T11:25:32.381Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:25:32.382Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:25:32.385Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser.events.data.microsoft.com:443 , listen_port:19022
+[2025-03-18T11:25:33.023Z] STATUS: sys_proxy_server :  www.googleadservices.com, 443
+[2025-03-18T11:25:33.024Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:25:33.025Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:25:33.030Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.googleadservices.com:443 , listen_port:19022
+[2025-03-18T11:25:33.420Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:25:33.421Z] STATUS: sys_proxy_server :  19027
+[2025-03-18T11:25:33.423Z] STATUS: upsetHttpsCon :  19027, 443
+[2025-03-18T11:25:33.428Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19027
+[2025-03-18T11:25:33.483Z] STATUS: sys_proxy_server :  config.edge.skype.com, 443
+[2025-03-18T11:25:33.483Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:25:33.485Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:25:33.488Z] STATUS: WSS_ConServer_IS_HTTPS 443 : config.edge.skype.com:443 , listen_port:19029
+[2025-03-18T11:25:33.496Z] STATUS: sys_proxy_server :  admin.microsoft.com, 443
+[2025-03-18T11:25:33.497Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:25:33.498Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:25:33.504Z] STATUS: WSS_ConServer_IS_HTTPS 443 : admin.microsoft.com:443 , listen_port:19020
+[2025-03-18T11:25:34.282Z] STATUS: sys_proxy_server :  emea.presence.teams.live.com, 443
+[2025-03-18T11:25:34.283Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:25:34.287Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:25:34.291Z] STATUS: WSS_ConServer_IS_HTTPS 443 : emea.presence.teams.live.com:443 , listen_port:19001
+[2025-03-18T11:25:34.556Z] STATUS: sys_proxy_server :  res-1.cdn.office.net, 443
+[2025-03-18T11:25:34.556Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:25:34.558Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:25:34.562Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res-1.cdn.office.net:443 , listen_port:19002
+[2025-03-18T11:25:34.716Z] STATUS: sys_proxy_server :  optimizationguide-pa.googleapis.com, 443
+[2025-03-18T11:25:34.721Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:25:34.723Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:25:34.726Z] STATUS: WSS_ConServer_IS_HTTPS 443 : optimizationguide-pa.googleapis.com:443 , listen_port:19003
+[2025-03-18T11:25:34.727Z] STATUS: sys_proxy_server :  ssl.gstatic.com, 443
+[2025-03-18T11:25:34.727Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:25:34.728Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:25:34.731Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ssl.gstatic.com:443 , listen_port:19004
+[2025-03-18T11:25:34.869Z] STATUS: sys_proxy_server :  res-1.cdn.office.net, 443
+[2025-03-18T11:25:34.869Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:25:34.871Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:25:34.874Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res-1.cdn.office.net:443 , listen_port:19005
+[2025-03-18T11:25:35.882Z] STATUS: sys_proxy_server :  accounts.google.com, 443
+[2025-03-18T11:25:35.882Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:25:35.883Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:25:35.887Z] STATUS: WSS_ConServer_IS_HTTPS 443 : accounts.google.com:443 , listen_port:19002
+[2025-03-18T11:25:35.904Z] STATUS: sys_proxy_server :  ogs.google.com, 443
+[2025-03-18T11:25:35.905Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:25:35.907Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:25:35.910Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ogs.google.com:443 , listen_port:19007
+[2025-03-18T11:25:35.986Z] STATUS: sys_proxy_server :  api.github.com, 443
+[2025-03-18T11:25:35.987Z] STATUS: sys_proxy_server :  19008
+[2025-03-18T11:25:35.990Z] STATUS: upsetHttpsCon :  19008, 443
+[2025-03-18T11:25:35.993Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.github.com:443 , listen_port:19008
+[2025-03-18T11:25:36.307Z] STATUS: sys_proxy_server :  github.com, 443
+[2025-03-18T11:25:36.310Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:25:36.314Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:25:36.319Z] STATUS: WSS_ConServer_IS_HTTPS 443 : github.com:443 , listen_port:19012
+[2025-03-18T11:25:36.326Z] STATUS: sys_proxy_server :  github.githubassets.com, 443
+[2025-03-18T11:25:36.329Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:25:36.331Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:25:36.336Z] STATUS: WSS_ConServer_IS_HTTPS 443 : github.githubassets.com:443 , listen_port:19013
+[2025-03-18T11:25:36.475Z] STATUS: sys_proxy_server :  res.cdn.office.net, 443
+[2025-03-18T11:25:36.476Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:25:36.477Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:25:36.479Z] STATUS: sys_proxy_server :  csp.microsoft.com, 443
+[2025-03-18T11:25:36.480Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:25:36.480Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:25:36.483Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res.cdn.office.net:443 , listen_port:19014
+[2025-03-18T11:25:36.484Z] STATUS: WSS_ConServer_IS_HTTPS 443 : csp.microsoft.com:443 , listen_port:19015
+[2025-03-18T11:25:36.612Z] STATUS: sys_proxy_server :  github.com, 443
+[2025-03-18T11:25:36.615Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:25:36.616Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:25:36.618Z] STATUS: WSS_ConServer_IS_HTTPS 443 : github.com:443 , listen_port:19016
+[2025-03-18T11:25:36.627Z] STATUS: sys_proxy_server :  github.githubassets.com, 443
+[2025-03-18T11:25:36.628Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:25:36.628Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:25:36.629Z] STATUS: sys_proxy_server :  github.githubassets.com, 443
+[2025-03-18T11:25:36.630Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:25:36.630Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:25:36.632Z] STATUS: WSS_ConServer_IS_HTTPS 443 : github.githubassets.com:443 , listen_port:19018
+[2025-03-18T11:25:36.634Z] STATUS: WSS_ConServer_IS_HTTPS 443 : github.githubassets.com:443 , listen_port:19021
+[2025-03-18T11:25:36.886Z] STATUS: sys_proxy_server :  github.com, 443
+[2025-03-18T11:25:36.887Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:25:36.889Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:25:36.893Z] STATUS: WSS_ConServer_IS_HTTPS 443 : github.com:443 , listen_port:19026
+[2025-03-18T11:25:36.911Z] STATUS: sys_proxy_server :  fonts.gstatic.com, 443
+[2025-03-18T11:25:36.912Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:25:36.912Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:25:36.914Z] STATUS: WSS_ConServer_IS_HTTPS 443 : fonts.gstatic.com:443 , listen_port:19031
+[2025-03-18T11:25:36.915Z] STATUS: sys_proxy_server :  lh3.google.com, 443
+[2025-03-18T11:25:36.916Z] STATUS: sys_proxy_server :  19032
+[2025-03-18T11:25:36.916Z] STATUS: upsetHttpsCon :  19032, 443
+[2025-03-18T11:25:36.920Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh3.google.com:443 , listen_port:19032
+[2025-03-18T11:25:36.961Z] STATUS: sys_proxy_server :  fonts.googleapis.com, 443
+[2025-03-18T11:25:36.962Z] STATUS: sys_proxy_server :  19033
+[2025-03-18T11:25:36.963Z] STATUS: upsetHttpsCon :  19033, 443
+[2025-03-18T11:25:36.965Z] STATUS: WSS_ConServer_IS_HTTPS 443 : fonts.googleapis.com:443 , listen_port:19033
+[2025-03-18T11:25:37.582Z] STATUS: sys_proxy_server :  eu-mobile.events.data.microsoft.com, 443
+[2025-03-18T11:25:37.583Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:25:37.584Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:25:37.588Z] STATUS: WSS_ConServer_IS_HTTPS 443 : eu-mobile.events.data.microsoft.com:443 , listen_port:19016
+[2025-03-18T11:25:37.833Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:25:37.833Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:25:37.834Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:25:37.837Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19018
+[2025-03-18T11:25:39.182Z] STATUS: sys_proxy_server :  lh3.googleusercontent.com, 443
+[2025-03-18T11:25:39.183Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:25:39.184Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:25:39.188Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh3.googleusercontent.com:443 , listen_port:19021
+[2025-03-18T11:25:39.243Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:25:39.244Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:25:39.245Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:25:39.248Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19026
+[2025-03-18T11:25:39.379Z] STATUS: sys_proxy_server :  eu-mobile.events.data.microsoft.com, 443
+[2025-03-18T11:25:39.380Z] STATUS: sys_proxy_server :  19034
+[2025-03-18T11:25:39.381Z] STATUS: upsetHttpsCon :  19034, 443
+[2025-03-18T11:25:39.385Z] STATUS: WSS_ConServer_IS_HTTPS 443 : eu-mobile.events.data.microsoft.com:443 , listen_port:19034
+[2025-03-18T11:25:39.858Z] STATUS: sys_proxy_server :  collector.github.com, 443
+[2025-03-18T11:25:39.859Z] STATUS: sys_proxy_server :  19037
+[2025-03-18T11:25:39.861Z] STATUS: upsetHttpsCon :  19037, 443
+[2025-03-18T11:25:39.866Z] STATUS: WSS_ConServer_IS_HTTPS 443 : collector.github.com:443 , listen_port:19037
+[2025-03-18T11:25:40.166Z] STATUS: sys_proxy_server :  collector.github.com, 443
+[2025-03-18T11:25:40.166Z] STATUS: sys_proxy_server :  19038
+[2025-03-18T11:25:40.167Z] STATUS: upsetHttpsCon :  19038, 443
+[2025-03-18T11:25:40.170Z] STATUS: sys_proxy_server :  collector.github.com, 443
+[2025-03-18T11:25:40.171Z] STATUS: sys_proxy_server :  19039
+[2025-03-18T11:25:40.171Z] STATUS: upsetHttpsCon :  19039, 443
+[2025-03-18T11:25:40.174Z] STATUS: WSS_ConServer_IS_HTTPS 443 : collector.github.com:443 , listen_port:19038
+[2025-03-18T11:25:40.176Z] STATUS: WSS_ConServer_IS_HTTPS 443 : collector.github.com:443 , listen_port:19039
+[2025-03-18T11:25:40.407Z] STATUS: sys_proxy_server :  collector.github.com, 443
+[2025-03-18T11:25:40.407Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:25:40.409Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:25:40.412Z] STATUS: WSS_ConServer_IS_HTTPS 443 : collector.github.com:443 , listen_port:19031
+[2025-03-18T11:25:40.600Z] STATUS: sys_proxy_server :  collector.github.com, 443
+[2025-03-18T11:25:40.601Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:25:40.602Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:25:40.606Z] STATUS: WSS_ConServer_IS_HTTPS 443 : collector.github.com:443 , listen_port:19004
+[2025-03-18T11:25:40.607Z] STATUS: sys_proxy_server :  collector.github.com, 443
+[2025-03-18T11:25:40.608Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:25:40.608Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:25:40.611Z] STATUS: WSS_ConServer_IS_HTTPS 443 : collector.github.com:443 , listen_port:19018
+[2025-03-18T11:25:40.948Z] STATUS: sys_proxy_server :  ssl.gstatic.com, 443
+[2025-03-18T11:25:40.949Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:25:40.950Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:25:40.953Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ssl.gstatic.com:443 , listen_port:19000
+[2025-03-18T11:25:41.014Z] STATUS: sys_proxy_server :  peoplestack-pa.clients6.google.com, 443
+[2025-03-18T11:25:41.015Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:25:41.016Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:25:41.019Z] STATUS: WSS_ConServer_IS_HTTPS 443 : peoplestack-pa.clients6.google.com:443 , listen_port:19001
+[2025-03-18T11:25:41.192Z] STATUS: sys_proxy_server :  admin.microsoft.com, 443
+[2025-03-18T11:25:41.192Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:25:41.193Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:25:41.197Z] STATUS: WSS_ConServer_IS_HTTPS 443 : admin.microsoft.com:443 , listen_port:19002
+[2025-03-18T11:25:41.198Z] STATUS: sys_proxy_server :  browser.pipe.aria.microsoft.com, 443
+[2025-03-18T11:25:41.198Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:25:41.199Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:25:41.201Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser.pipe.aria.microsoft.com:443 , listen_port:19003
+[2025-03-18T11:25:42.285Z] STATUS: sys_proxy_server :  ogads-pa.clients6.google.com, 443
+[2025-03-18T11:25:42.286Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:25:42.287Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:25:42.289Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ogads-pa.clients6.google.com:443 , listen_port:19004
+[2025-03-18T11:25:42.290Z] STATUS: sys_proxy_server :  waa-pa.clients6.google.com, 443
+[2025-03-18T11:25:42.290Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:25:42.292Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:25:42.294Z] STATUS: WSS_ConServer_IS_HTTPS 443 : waa-pa.clients6.google.com:443 , listen_port:19005
+[2025-03-18T11:25:43.728Z] STATUS: sys_proxy_server :  apis.google.com, 443
+[2025-03-18T11:25:43.729Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:25:43.730Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:25:43.734Z] STATUS: WSS_ConServer_IS_HTTPS 443 : apis.google.com:443 , listen_port:19007
+[2025-03-18T11:25:44.193Z] STATUS: sys_proxy_server :  outlook.live.com, 443
+[2025-03-18T11:25:44.193Z] STATUS: sys_proxy_server :  19008
+[2025-03-18T11:25:44.194Z] STATUS: upsetHttpsCon :  19008, 443
+[2025-03-18T11:25:44.198Z] STATUS: WSS_ConServer_IS_HTTPS 443 : outlook.live.com:443 , listen_port:19008
+[2025-03-18T11:25:44.998Z] STATUS: sys_proxy_server :  lh7-rt.googleusercontent.com, 443
+[2025-03-18T11:25:44.998Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:25:44.999Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:25:45.003Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh7-rt.googleusercontent.com:443 , listen_port:19010
+[2025-03-18T11:25:45.306Z] STATUS: sys_proxy_server :  lh7-rt.googleusercontent.com, 443
+[2025-03-18T11:25:45.339Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:25:45.340Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:25:45.344Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh7-rt.googleusercontent.com:443 , listen_port:19012
+[2025-03-18T11:25:45.345Z] STATUS: sys_proxy_server :  api.github.com, 443
+[2025-03-18T11:25:45.345Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:25:45.346Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:25:45.349Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.github.com:443 , listen_port:19013
+[2025-03-18T11:25:45.552Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:25:45.553Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:25:45.557Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:25:45.564Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19014
+[2025-03-18T11:25:46.123Z] STATUS: sys_proxy_server :  v10.events.data.microsoft.com, 443
+[2025-03-18T11:25:46.124Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:25:46.126Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:25:46.129Z] STATUS: WSS_ConServer_IS_HTTPS 443 : v10.events.data.microsoft.com:443 , listen_port:19015
+[2025-03-18T11:25:47.794Z] STATUS: sys_proxy_server :  addons-pa.clients6.google.com, 443
+[2025-03-18T11:25:47.795Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:25:47.797Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:25:47.799Z] STATUS: WSS_ConServer_IS_HTTPS 443 : addons-pa.clients6.google.com:443 , listen_port:19010
+[2025-03-18T11:25:48.174Z] STATUS: sys_proxy_server :  clients6.google.com, 443
+[2025-03-18T11:25:48.174Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:25:48.176Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:25:48.179Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients6.google.com:443 , listen_port:19015
+[2025-03-18T11:25:48.186Z] STATUS: sys_proxy_server :  api.aps.skype.com, 443
+[2025-03-18T11:25:48.186Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:25:48.187Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:25:48.189Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.aps.skype.com:443 , listen_port:19016
+[2025-03-18T11:25:48.190Z] STATUS: sys_proxy_server :  appsgrowthpromo-pa.clients6.google.com, 443
+[2025-03-18T11:25:48.191Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:25:48.191Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:25:48.194Z] STATUS: WSS_ConServer_IS_HTTPS 443 : appsgrowthpromo-pa.clients6.google.com:443 , listen_port:19017
+[2025-03-18T11:25:49.134Z] STATUS: sys_proxy_server :  peoplestack-pa.clients6.google.com, 443
+[2025-03-18T11:25:49.135Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:25:49.136Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:25:49.139Z] STATUS: WSS_ConServer_IS_HTTPS 443 : peoplestack-pa.clients6.google.com:443 , listen_port:19018
+[2025-03-18T11:25:49.392Z] STATUS: sys_proxy_server :  appsgrowthpromo-pa.clients6.google.com, 443
+[2025-03-18T11:25:49.393Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:25:49.394Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:25:49.397Z] STATUS: WSS_ConServer_IS_HTTPS 443 : appsgrowthpromo-pa.clients6.google.com:443 , listen_port:19020
+[2025-03-18T11:25:49.785Z] STATUS: sys_proxy_server :  appsgrowthpromo-pa.clients6.google.com, 443
+[2025-03-18T11:25:49.788Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:25:49.792Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:25:49.798Z] STATUS: WSS_ConServer_IS_HTTPS 443 : appsgrowthpromo-pa.clients6.google.com:443 , listen_port:19022
+[2025-03-18T11:25:51.370Z] STATUS: sys_proxy_server :  api.monica.im, 443
+[2025-03-18T11:25:51.370Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:25:51.372Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:25:51.375Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.monica.im:443 , listen_port:19022
+[2025-03-18T11:25:52.021Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:25:52.021Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:25:52.023Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:25:52.027Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19023
+[2025-03-18T11:25:52.037Z] STATUS: sys_proxy_server :  contacts.google.com, 443
+[2025-03-18T11:25:52.038Z] STATUS: sys_proxy_server :  19027
+[2025-03-18T11:25:52.038Z] STATUS: upsetHttpsCon :  19027, 443
+[2025-03-18T11:25:52.040Z] STATUS: WSS_ConServer_IS_HTTPS 443 : contacts.google.com:443 , listen_port:19027
+[2025-03-18T11:25:53.314Z] STATUS: sys_proxy_server :  fonts.gstatic.com, 443
+[2025-03-18T11:25:53.314Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:25:53.317Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:25:53.319Z] STATUS: WSS_ConServer_IS_HTTPS 443 : fonts.gstatic.com:443 , listen_port:19028
+[2025-03-18T11:25:55.211Z] STATUS: sys_proxy_server :  accounts.google.com, 443
+[2025-03-18T11:25:55.212Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:25:55.213Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:25:55.217Z] STATUS: WSS_ConServer_IS_HTTPS 443 : accounts.google.com:443 , listen_port:19029
+[2025-03-18T11:26:04.726Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:26:04.728Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:26:04.733Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:26:04.739Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19031
+[2025-03-18T11:26:04.741Z] STATUS: sys_proxy_server :  clients2.google.com, 443
+[2025-03-18T11:26:04.741Z] STATUS: sys_proxy_server :  19032
+[2025-03-18T11:26:04.742Z] STATUS: upsetHttpsCon :  19032, 443
+[2025-03-18T11:26:04.745Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients2.google.com:443 , listen_port:19032
+[2025-03-18T11:26:08.707Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:26:08.709Z] STATUS: sys_proxy_server :  19033
+[2025-03-18T11:26:08.713Z] STATUS: upsetHttpsCon :  19033, 443
+[2025-03-18T11:26:08.719Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19033
+[2025-03-18T11:26:11.257Z] STATUS: sys_proxy_server :  outlook.office365.com, 443
+[2025-03-18T11:26:11.258Z] STATUS: sys_proxy_server :  19035
+[2025-03-18T11:26:11.260Z] STATUS: upsetHttpsCon :  19035, 443
+[2025-03-18T11:26:11.263Z] STATUS: WSS_ConServer_IS_HTTPS 443 : outlook.office365.com:443 , listen_port:19035
+[2025-03-18T11:26:11.568Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:26:11.569Z] STATUS: sys_proxy_server :  19038
+[2025-03-18T11:26:11.572Z] STATUS: upsetHttpsCon :  19038, 443
+[2025-03-18T11:26:11.579Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19038
+[2025-03-18T11:26:15.376Z] STATUS: sys_proxy_server :  outlook.live.com, 443
+[2025-03-18T11:26:15.377Z] STATUS: sys_proxy_server :  19039
+[2025-03-18T11:26:15.378Z] STATUS: upsetHttpsCon :  19039, 443
+[2025-03-18T11:26:15.382Z] STATUS: WSS_ConServer_IS_HTTPS 443 : outlook.live.com:443 , listen_port:19039
+[2025-03-18T11:26:16.205Z] STATUS: sys_proxy_server :  browser.pipe.aria.microsoft.com, 443
+[2025-03-18T11:26:16.207Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:26:16.210Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:26:16.217Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser.pipe.aria.microsoft.com:443 , listen_port:19028
+[2025-03-18T11:26:21.291Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:26:21.292Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:26:21.293Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:26:21.297Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19013
+[2025-03-18T11:26:23.984Z] STATUS: sys_proxy_server :  api.github.com, 443
+[2025-03-18T11:26:23.989Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:26:23.992Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:26:23.999Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.github.com:443 , listen_port:19017
+[2025-03-18T11:26:24.002Z] STATUS: sys_proxy_server :  collector.github.com, 443
+[2025-03-18T11:26:24.003Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:26:24.005Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:26:24.016Z] STATUS: WSS_ConServer_IS_HTTPS 443 : collector.github.com:443 , listen_port:19000
+[2025-03-18T11:26:24.839Z] STATUS: sys_proxy_server :  lh3.google.com, 443
+[2025-03-18T11:26:24.840Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:26:24.843Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:26:24.845Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh3.google.com:443 , listen_port:19001
+[2025-03-18T11:26:24.869Z] STATUS: sys_proxy_server :  ogads-pa.clients6.google.com, 443
+[2025-03-18T11:26:24.870Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:26:24.871Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:26:24.875Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ogads-pa.clients6.google.com:443 , listen_port:19002
+[2025-03-18T11:26:25.505Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:26:25.506Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:26:25.509Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:26:25.517Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19003
+[2025-03-18T11:26:25.874Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:26:25.875Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:26:25.878Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:26:25.885Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19004
+[2025-03-18T11:26:26.061Z] STATUS: sys_proxy_server :  lh3.googleusercontent.com, 443
+[2025-03-18T11:26:26.062Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:26:26.066Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:26:26.070Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh3.googleusercontent.com:443 , listen_port:19005
+[2025-03-18T11:26:28.897Z] STATUS: sys_proxy_server :  ogs.google.com, 443
+[2025-03-18T11:26:28.899Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:26:28.901Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:26:28.905Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ogs.google.com:443 , listen_port:19007
+[2025-03-18T11:26:30.003Z] STATUS: sys_proxy_server :  lh6.googleusercontent.com, 443
+[2025-03-18T11:26:30.003Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:26:30.006Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:26:30.008Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:26:30.009Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:26:30.010Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:26:30.015Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh6.googleusercontent.com:443 , listen_port:19010
+[2025-03-18T11:26:30.017Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19012
+[2025-03-18T11:26:30.021Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:26:30.021Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:26:30.022Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:26:30.025Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19014
+[2025-03-18T11:26:30.308Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:26:30.309Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:26:30.310Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:26:30.314Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19015
+[2025-03-18T11:26:30.323Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:26:30.323Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:26:30.324Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:26:30.327Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19016
+[2025-03-18T11:26:30.385Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:26:30.386Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:26:30.388Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:26:30.392Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19018
+[2025-03-18T11:26:30.453Z] STATUS: sys_proxy_server :  cloudsearch.googleapis.com, 443
+[2025-03-18T11:26:30.454Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:26:30.455Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:26:30.458Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cloudsearch.googleapis.com:443 , listen_port:19019
+[2025-03-18T11:26:31.202Z] STATUS: sys_proxy_server :  res.public.onecdn.static.microsoft, 443
+[2025-03-18T11:26:31.203Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:26:31.205Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:26:31.210Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res.public.onecdn.static.microsoft:443 , listen_port:19015
+[2025-03-18T11:26:36.318Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:26:36.320Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:26:36.323Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:26:36.330Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19016
+[2025-03-18T11:26:38.217Z] STATUS: sys_proxy_server :  optimizationguide-pa.googleapis.com, 443
+[2025-03-18T11:26:38.218Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:26:38.220Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:26:38.224Z] STATUS: WSS_ConServer_IS_HTTPS 443 : optimizationguide-pa.googleapis.com:443 , listen_port:19020
+[2025-03-18T11:26:38.225Z] STATUS: sys_proxy_server :  fonts.gstatic.com, 443
+[2025-03-18T11:26:38.225Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:26:38.225Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:26:38.227Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:26:38.227Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:26:38.228Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:26:38.231Z] STATUS: WSS_ConServer_IS_HTTPS 443 : fonts.gstatic.com:443 , listen_port:19021
+[2025-03-18T11:26:38.234Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19022
+[2025-03-18T11:26:38.248Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:26:38.248Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:26:38.249Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:26:38.251Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19023
+[2025-03-18T11:26:39.841Z] STATUS: sys_proxy_server :  www.googleadservices.com, 443
+[2025-03-18T11:26:39.845Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:26:39.847Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:26:39.849Z] STATUS: sys_proxy_server :  lh3.google.com, 443
+[2025-03-18T11:26:39.850Z] STATUS: sys_proxy_server :  19027
+[2025-03-18T11:26:39.850Z] STATUS: upsetHttpsCon :  19027, 443
+[2025-03-18T11:26:39.853Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.googleadservices.com:443 , listen_port:19026
+[2025-03-18T11:26:39.855Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh3.google.com:443 , listen_port:19027
+[2025-03-18T11:26:40.234Z] STATUS: sys_proxy_server :  ogads-pa.clients6.google.com, 443
+[2025-03-18T11:26:40.236Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:26:40.238Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:26:40.241Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ogads-pa.clients6.google.com:443 , listen_port:19028
+[2025-03-18T11:26:41.398Z] STATUS: sys_proxy_server :  lh3.googleusercontent.com, 443
+[2025-03-18T11:26:41.399Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:26:41.401Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:26:41.405Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh3.googleusercontent.com:443 , listen_port:19029
+[2025-03-18T11:26:42.082Z] STATUS: sys_proxy_server :  s2.googleusercontent.com, 443
+[2025-03-18T11:26:42.083Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:26:42.084Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:26:42.088Z] STATUS: WSS_ConServer_IS_HTTPS 443 : s2.googleusercontent.com:443 , listen_port:19031
+[2025-03-18T11:26:42.181Z] STATUS: sys_proxy_server :  api.monica.im, 443
+[2025-03-18T11:26:42.182Z] STATUS: sys_proxy_server :  19032
+[2025-03-18T11:26:42.183Z] STATUS: upsetHttpsCon :  19032, 443
+[2025-03-18T11:26:42.188Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.monica.im:443 , listen_port:19032
+[2025-03-18T11:26:42.513Z] STATUS: sys_proxy_server :  api.monica.im, 443
+[2025-03-18T11:26:42.513Z] STATUS: sys_proxy_server :  19033
+[2025-03-18T11:26:42.515Z] STATUS: upsetHttpsCon :  19033, 443
+[2025-03-18T11:26:42.518Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.monica.im:443 , listen_port:19033
+[2025-03-18T11:26:42.742Z] STATUS: sys_proxy_server :  translate.googleapis.com, 443
+[2025-03-18T11:26:42.744Z] STATUS: sys_proxy_server :  19034
+[2025-03-18T11:26:42.745Z] STATUS: upsetHttpsCon :  19034, 443
+[2025-03-18T11:26:42.749Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.googleapis.com:443 , listen_port:19034
+[2025-03-18T11:26:42.954Z] STATUS: sys_proxy_server :  openai.com, 443
+[2025-03-18T11:26:42.956Z] STATUS: sys_proxy_server :  19035
+[2025-03-18T11:26:42.958Z] STATUS: upsetHttpsCon :  19035, 443
+[2025-03-18T11:26:42.960Z] STATUS: WSS_ConServer_IS_HTTPS 443 : openai.com:443 , listen_port:19035
+[2025-03-18T11:26:43.125Z] STATUS: sys_proxy_server :  openai.com, 443
+[2025-03-18T11:26:43.126Z] STATUS: sys_proxy_server :  19037
+[2025-03-18T11:26:43.127Z] STATUS: upsetHttpsCon :  19037, 443
+[2025-03-18T11:26:43.129Z] STATUS: WSS_ConServer_IS_HTTPS 443 : openai.com:443 , listen_port:19037
+[2025-03-18T11:26:43.233Z] STATUS: sys_proxy_server :  translate.googleapis.com, 443
+[2025-03-18T11:26:43.234Z] STATUS: sys_proxy_server :  19033
+[2025-03-18T11:26:43.236Z] STATUS: upsetHttpsCon :  19033, 443
+[2025-03-18T11:26:43.238Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.googleapis.com:443 , listen_port:19033
+[2025-03-18T11:26:43.281Z] STATUS: sys_proxy_server :  t2.gstatic.com, 443
+[2025-03-18T11:26:43.282Z] STATUS: sys_proxy_server :  19038
+[2025-03-18T11:26:43.284Z] STATUS: upsetHttpsCon :  19038, 443
+[2025-03-18T11:26:43.289Z] STATUS: WSS_ConServer_IS_HTTPS 443 : t2.gstatic.com:443 , listen_port:19038
+[2025-03-18T11:26:44.498Z] STATUS: sys_proxy_server :  www.googletagmanager.com, 443
+[2025-03-18T11:26:44.499Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:26:44.500Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:26:44.503Z] STATUS: sys_proxy_server :  static.cloudflareinsights.com, 443
+[2025-03-18T11:26:44.503Z] STATUS: sys_proxy_server :  19033
+[2025-03-18T11:26:44.504Z] STATUS: upsetHttpsCon :  19033, 443
+[2025-03-18T11:26:44.506Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.googletagmanager.com:443 , listen_port:19021
+[2025-03-18T11:26:44.508Z] STATUS: WSS_ConServer_IS_HTTPS 443 : static.cloudflareinsights.com:443 , listen_port:19033
+[2025-03-18T11:26:44.773Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:26:44.773Z] STATUS: sys_proxy_server :  19037
+[2025-03-18T11:26:44.776Z] STATUS: upsetHttpsCon :  19037, 443
+[2025-03-18T11:26:44.780Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19037
+[2025-03-18T11:26:45.625Z] STATUS: sys_proxy_server :  cdn.openai.com, 443
+[2025-03-18T11:26:45.628Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:26:45.630Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:26:45.637Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.openai.com:443 , listen_port:19018
+[2025-03-18T11:26:45.640Z] STATUS: sys_proxy_server :  cdn.openai.com, 443
+[2025-03-18T11:26:45.643Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:26:45.644Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:26:45.647Z] STATUS: sys_proxy_server :  cdn.openai.com, 443
+[2025-03-18T11:26:45.647Z] STATUS: sys_proxy_server :  19039
+[2025-03-18T11:26:45.649Z] STATUS: upsetHttpsCon :  19039, 443
+[2025-03-18T11:26:45.651Z] STATUS: sys_proxy_server :  cdn.openai.com, 443
+[2025-03-18T11:26:45.652Z] STATUS: sys_proxy_server :  19040
+[2025-03-18T11:26:45.655Z] STATUS: upsetHttpsCon :  19040, 443
+[2025-03-18T11:26:45.658Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.openai.com:443 , listen_port:19022
+[2025-03-18T11:26:45.661Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.openai.com:443 , listen_port:19039
+[2025-03-18T11:26:45.663Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.openai.com:443 , listen_port:19040
+[2025-03-18T11:26:45.702Z] STATUS: sys_proxy_server :  content-autofill.googleapis.com, 443
+[2025-03-18T11:26:45.702Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:26:45.704Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:26:45.707Z] STATUS: WSS_ConServer_IS_HTTPS 443 : content-autofill.googleapis.com:443 , listen_port:19000
+[2025-03-18T11:26:45.862Z] STATUS: sys_proxy_server :  www.googleadservices.com, 443
+[2025-03-18T11:26:45.864Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:26:45.864Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:26:45.868Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.googleadservices.com:443 , listen_port:19001
+[2025-03-18T11:26:47.128Z] STATUS: sys_proxy_server :  accounts.google.com, 443
+[2025-03-18T11:26:47.129Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:26:47.130Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:26:47.133Z] STATUS: WSS_ConServer_IS_HTTPS 443 : accounts.google.com:443 , listen_port:19002
+[2025-03-18T11:26:47.140Z] STATUS: sys_proxy_server :  ogs.google.com, 443
+[2025-03-18T11:26:47.141Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:26:47.141Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:26:47.143Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ogs.google.com:443 , listen_port:19003
+[2025-03-18T11:26:48.053Z] STATUS: sys_proxy_server :  translate.googleapis.com, 443
+[2025-03-18T11:26:48.061Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:26:48.062Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:26:48.065Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.googleapis.com:443 , listen_port:19004
+[2025-03-18T11:26:48.090Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:26:48.090Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:26:48.092Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:26:48.094Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19005
+[2025-03-18T11:26:48.196Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:26:48.197Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:26:48.198Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:26:48.202Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19007
+[2025-03-18T11:26:48.686Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:26:48.687Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:26:48.690Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:26:48.693Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19010
+[2025-03-18T11:26:48.694Z] STATUS: sys_proxy_server :  ssl.gstatic.com, 443
+[2025-03-18T11:26:48.694Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:26:48.695Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:26:48.698Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ssl.gstatic.com:443 , listen_port:19012
+[2025-03-18T11:26:52.215Z] STATUS: sys_proxy_server :  api.monica.im, 443
+[2025-03-18T11:26:52.216Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:26:52.217Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:26:52.221Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.monica.im:443 , listen_port:19014
+[2025-03-18T11:26:54.446Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:26:54.447Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:26:54.450Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:26:54.453Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19015
+[2025-03-18T11:27:01.149Z] STATUS: sys_proxy_server :  images.ctfassets.net, 443
+[2025-03-18T11:27:01.150Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:27:01.152Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:27:01.157Z] STATUS: WSS_ConServer_IS_HTTPS 443 : images.ctfassets.net:443 , listen_port:19016
+[2025-03-18T11:27:04.495Z] STATUS: sys_proxy_server :  chatgpt.com, 443
+[2025-03-18T11:27:04.497Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:27:04.500Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:27:04.502Z] STATUS: WSS_ConServer_IS_HTTPS 443 : chatgpt.com:443 , listen_port:19017
+[2025-03-18T11:27:04.503Z] STATUS: sys_proxy_server :  featureassets.org, 443
+[2025-03-18T11:27:04.504Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:27:04.504Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:27:04.506Z] STATUS: WSS_ConServer_IS_HTTPS 443 : featureassets.org:443 , listen_port:19018
+[2025-03-18T11:27:04.559Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:27:04.560Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:27:04.561Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:27:04.565Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19019
+[2025-03-18T11:27:04.569Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:27:04.569Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:27:04.570Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:27:04.573Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:27:04.573Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:27:04.574Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:27:04.576Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19020
+[2025-03-18T11:27:04.580Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19022
+[2025-03-18T11:27:04.583Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:27:04.583Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:27:04.584Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:27:04.587Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19023
+[2025-03-18T11:27:04.971Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:27:04.971Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:27:04.972Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:27:04.975Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19026
+[2025-03-18T11:27:05.043Z] STATUS: sys_proxy_server :  chatgpt.com, 443
+[2025-03-18T11:27:05.045Z] STATUS: sys_proxy_server :  19027
+[2025-03-18T11:27:05.047Z] STATUS: upsetHttpsCon :  19027, 443
+[2025-03-18T11:27:05.053Z] STATUS: WSS_ConServer_IS_HTTPS 443 : chatgpt.com:443 , listen_port:19027
+[2025-03-18T11:27:05.190Z] STATUS: sys_proxy_server :  optimizationguide-pa.googleapis.com, 443
+[2025-03-18T11:27:05.192Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:27:05.193Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:27:05.197Z] STATUS: WSS_ConServer_IS_HTTPS 443 : optimizationguide-pa.googleapis.com:443 , listen_port:19028
+[2025-03-18T11:27:05.199Z] STATUS: sys_proxy_server :  chatgpt.com, 443
+[2025-03-18T11:27:05.199Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:27:05.200Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:27:05.205Z] STATUS: WSS_ConServer_IS_HTTPS 443 : chatgpt.com:443 , listen_port:19029
+[2025-03-18T11:27:06.413Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:06.414Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:27:06.416Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:27:06.419Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19019
+[2025-03-18T11:27:06.691Z] STATUS: sys_proxy_server :  ab.chatgpt.com, 443
+[2025-03-18T11:27:06.694Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:27:06.695Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:27:06.698Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ab.chatgpt.com:443 , listen_port:19020
+[2025-03-18T11:27:06.699Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:06.699Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:27:06.700Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:27:06.702Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19023
+[2025-03-18T11:27:06.796Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:06.799Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:27:06.800Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:27:06.802Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:06.803Z] STATUS: sys_proxy_server :  19032
+[2025-03-18T11:27:06.803Z] STATUS: upsetHttpsCon :  19032, 443
+[2025-03-18T11:27:06.807Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19031
+[2025-03-18T11:27:06.808Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:06.809Z] STATUS: sys_proxy_server :  19034
+[2025-03-18T11:27:06.809Z] STATUS: upsetHttpsCon :  19034, 443
+[2025-03-18T11:27:06.811Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:06.812Z] STATUS: sys_proxy_server :  19038
+[2025-03-18T11:27:06.812Z] STATUS: upsetHttpsCon :  19038, 443
+[2025-03-18T11:27:06.814Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:06.814Z] STATUS: sys_proxy_server :  19040
+[2025-03-18T11:27:06.815Z] STATUS: upsetHttpsCon :  19040, 443
+[2025-03-18T11:27:06.816Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:06.818Z] STATUS: sys_proxy_server :  19041
+[2025-03-18T11:27:06.818Z] STATUS: upsetHttpsCon :  19041, 443
+[2025-03-18T11:27:06.821Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19032
+[2025-03-18T11:27:06.825Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19034
+[2025-03-18T11:27:06.827Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19038
+[2025-03-18T11:27:06.830Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19040
+[2025-03-18T11:27:06.833Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19041
+[2025-03-18T11:27:08.260Z] STATUS: sys_proxy_server :  content-autofill.googleapis.com, 443
+[2025-03-18T11:27:08.263Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:27:08.265Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:27:08.271Z] STATUS: WSS_ConServer_IS_HTTPS 443 : content-autofill.googleapis.com:443 , listen_port:19000
+[2025-03-18T11:27:09.915Z] STATUS: sys_proxy_server :  api.monica.im, 443
+[2025-03-18T11:27:09.916Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:27:09.917Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:27:09.921Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.monica.im:443 , listen_port:19001
+[2025-03-18T11:27:10.853Z] STATUS: sys_proxy_server :  ab.chatgpt.com, 443
+[2025-03-18T11:27:10.857Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:27:10.859Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:27:10.862Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ab.chatgpt.com:443 , listen_port:19002
+[2025-03-18T11:27:11.111Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:27:11.112Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:27:11.113Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:27:11.116Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19003
+[2025-03-18T11:27:11.185Z] STATUS: sys_proxy_server :  ab.chatgpt.com, 443
+[2025-03-18T11:27:11.186Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:27:11.186Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:27:11.190Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ab.chatgpt.com:443 , listen_port:19004
+[2025-03-18T11:27:11.622Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:27:11.622Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:27:11.624Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:27:11.626Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19005
+[2025-03-18T11:27:12.073Z] STATUS: sys_proxy_server :  prodregistryv2.org, 443
+[2025-03-18T11:27:12.074Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:27:12.076Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:27:12.078Z] STATUS: WSS_ConServer_IS_HTTPS 443 : prodregistryv2.org:443 , listen_port:19004
+[2025-03-18T11:27:12.166Z] STATUS: sys_proxy_server :  content-autofill.googleapis.com, 443
+[2025-03-18T11:27:12.166Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:27:12.168Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:27:12.171Z] STATUS: WSS_ConServer_IS_HTTPS 443 : content-autofill.googleapis.com:443 , listen_port:19007
+[2025-03-18T11:27:13.771Z] STATUS: sys_proxy_server :  www.googletagmanager.com, 443
+[2025-03-18T11:27:13.771Z] STATUS: sys_proxy_server :  19006
+[2025-03-18T11:27:13.773Z] STATUS: upsetHttpsCon :  19006, 443
+[2025-03-18T11:27:13.775Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.googletagmanager.com:443 , listen_port:19006
+[2025-03-18T11:27:15.180Z] STATUS: sys_proxy_server :  browser.pipe.aria.microsoft.com, 443
+[2025-03-18T11:27:15.182Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:27:15.183Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:27:15.186Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser.pipe.aria.microsoft.com:443 , listen_port:19010
+[2025-03-18T11:27:16.002Z] STATUS: sys_proxy_server :  www.google-analytics.com, 443
+[2025-03-18T11:27:16.002Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:27:16.004Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:27:16.008Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google-analytics.com:443 , listen_port:19012
+[2025-03-18T11:27:16.048Z] STATUS: sys_proxy_server :  cloudflareinsights.com, 443
+[2025-03-18T11:27:16.048Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:27:16.049Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:27:16.053Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cloudflareinsights.com:443 , listen_port:19013
+[2025-03-18T11:27:20.195Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:27:20.197Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:27:20.199Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:27:20.203Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19014
+[2025-03-18T11:27:23.923Z] STATUS: sys_proxy_server :  optimizationguide-pa.googleapis.com, 443
+[2025-03-18T11:27:23.932Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:27:23.936Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:27:23.941Z] STATUS: WSS_ConServer_IS_HTTPS 443 : optimizationguide-pa.googleapis.com:443 , listen_port:19005
+[2025-03-18T11:27:23.943Z] STATUS: sys_proxy_server :  auth.openai.com, 443
+[2025-03-18T11:27:23.943Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:27:23.945Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:27:23.948Z] STATUS: sys_proxy_server :  auth.openai.com, 443
+[2025-03-18T11:27:23.949Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:27:23.954Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:27:23.957Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:27:23.958Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:27:23.959Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:27:23.970Z] STATUS: WSS_ConServer_IS_HTTPS 443 : auth.openai.com:443 , listen_port:19015
+[2025-03-18T11:27:23.973Z] STATUS: WSS_ConServer_IS_HTTPS 443 : auth.openai.com:443 , listen_port:19016
+[2025-03-18T11:27:23.978Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19021
+[2025-03-18T11:27:26.995Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:27:26.998Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:27:27.000Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:27:27.003Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19023
+[2025-03-18T11:27:28.276Z] STATUS: sys_proxy_server :  chatgpt.com, 443
+[2025-03-18T11:27:28.277Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:27:28.278Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:27:28.282Z] STATUS: WSS_ConServer_IS_HTTPS 443 : chatgpt.com:443 , listen_port:19028
+[2025-03-18T11:27:29.825Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:27:29.826Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:27:29.829Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:27:29.841Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19031
+[2025-03-18T11:27:31.866Z] STATUS: sys_proxy_server :  cdn.openai.com, 443
+[2025-03-18T11:27:31.867Z] STATUS: sys_proxy_server :  19033
+[2025-03-18T11:27:31.868Z] STATUS: upsetHttpsCon :  19033, 443
+[2025-03-18T11:27:31.874Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.openai.com:443 , listen_port:19033
+[2025-03-18T11:27:31.948Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:27:31.949Z] STATUS: sys_proxy_server :  19034
+[2025-03-18T11:27:31.950Z] STATUS: upsetHttpsCon :  19034, 443
+[2025-03-18T11:27:31.954Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19034
+[2025-03-18T11:27:32.038Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:27:32.039Z] STATUS: sys_proxy_server :  19037
+[2025-03-18T11:27:32.040Z] STATUS: upsetHttpsCon :  19037, 443
+[2025-03-18T11:27:32.044Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19037
+[2025-03-18T11:27:36.937Z] STATUS: sys_proxy_server :  accounts.google.com, 443
+[2025-03-18T11:27:36.938Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:27:36.939Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:27:36.941Z] STATUS: WSS_ConServer_IS_HTTPS 443 : accounts.google.com:443 , listen_port:19016
+[2025-03-18T11:27:37.365Z] STATUS: sys_proxy_server :  pub-csm-euwe-00-t.trouter.skype.com, 443
+[2025-03-18T11:27:37.367Z] STATUS: sys_proxy_server :  19027
+[2025-03-18T11:27:37.369Z] STATUS: upsetHttpsCon :  19027, 443
+[2025-03-18T11:27:37.373Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-euwe-00-t.trouter.skype.com:443 , listen_port:19027
+[2025-03-18T11:27:37.812Z] STATUS: sys_proxy_server :  translate.googleapis.com, 443
+[2025-03-18T11:27:37.813Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:27:37.814Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:27:37.821Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.googleapis.com:443 , listen_port:19010
+[2025-03-18T11:27:38.324Z] STATUS: sys_proxy_server :  optimizationguide-pa.googleapis.com, 443
+[2025-03-18T11:27:38.325Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:27:38.329Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:27:38.333Z] STATUS: sys_proxy_server :  auth.openai.com, 443
+[2025-03-18T11:27:38.335Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:27:38.337Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:27:38.342Z] STATUS: WSS_ConServer_IS_HTTPS 443 : optimizationguide-pa.googleapis.com:443 , listen_port:19000
+[2025-03-18T11:27:38.344Z] STATUS: WSS_ConServer_IS_HTTPS 443 : auth.openai.com:443 , listen_port:19001
+[2025-03-18T11:27:39.992Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:27:39.993Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:27:39.997Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:27:40.004Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19002
+[2025-03-18T11:27:40.008Z] STATUS: sys_proxy_server :  prodregistryv2.org, 443
+[2025-03-18T11:27:40.011Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:27:40.013Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:27:40.019Z] STATUS: WSS_ConServer_IS_HTTPS 443 : prodregistryv2.org:443 , listen_port:19003
+[2025-03-18T11:27:40.125Z] STATUS: sys_proxy_server :  pub-csm-euwe-00-t.trouter.skype.com, 443
+[2025-03-18T11:27:40.127Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:27:40.130Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:27:40.137Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-euwe-00-t.trouter.skype.com:443 , listen_port:19004
+[2025-03-18T11:27:41.886Z] STATUS: sys_proxy_server :  prodregistryv2.org, 443
+[2025-03-18T11:27:41.887Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:27:41.890Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:27:41.898Z] STATUS: WSS_ConServer_IS_HTTPS 443 : prodregistryv2.org:443 , listen_port:19005
+[2025-03-18T11:27:41.951Z] STATUS: sys_proxy_server :  edge.skype.com, 443
+[2025-03-18T11:27:41.952Z] STATUS: sys_proxy_server :  19006
+[2025-03-18T11:27:41.954Z] STATUS: upsetHttpsCon :  19006, 443
+[2025-03-18T11:27:41.957Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.skype.com:443 , listen_port:19006
+[2025-03-18T11:27:42.118Z] STATUS: sys_proxy_server :  chatgpt.com, 443
+[2025-03-18T11:27:42.120Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:27:42.122Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:27:42.127Z] STATUS: WSS_ConServer_IS_HTTPS 443 : chatgpt.com:443 , listen_port:19007
+[2025-03-18T11:27:43.632Z] STATUS: sys_proxy_server :  emea.presence.teams.live.com, 443
+[2025-03-18T11:27:43.633Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:27:43.635Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:27:43.640Z] STATUS: WSS_ConServer_IS_HTTPS 443 : emea.presence.teams.live.com:443 , listen_port:19005
+[2025-03-18T11:27:44.580Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:27:44.582Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:27:44.587Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:27:44.594Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19012
+[2025-03-18T11:27:46.557Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:46.559Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:27:46.565Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:27:46.568Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19013
+[2025-03-18T11:27:46.569Z] STATUS: sys_proxy_server :  ab.chatgpt.com, 443
+[2025-03-18T11:27:46.569Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:27:46.570Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:27:46.572Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ab.chatgpt.com:443 , listen_port:19014
+[2025-03-18T11:27:48.434Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:27:48.445Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:27:48.447Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:27:48.450Z] STATUS: sys_proxy_server :  ab.chatgpt.com, 443
+[2025-03-18T11:27:48.451Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:27:48.455Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:27:48.458Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19015
+[2025-03-18T11:27:48.462Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ab.chatgpt.com:443 , listen_port:19017
+[2025-03-18T11:27:48.514Z] STATUS: sys_proxy_server :  lh3.googleusercontent.com, 443
+[2025-03-18T11:27:48.515Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:27:48.518Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:27:48.521Z] STATUS: WSS_ConServer_IS_HTTPS 443 : lh3.googleusercontent.com:443 , listen_port:19018
+[2025-03-18T11:27:48.817Z] STATUS: sys_proxy_server :  ab.chatgpt.com, 443
+[2025-03-18T11:27:48.817Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:27:48.818Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:27:48.822Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ab.chatgpt.com:443 , listen_port:19019
+[2025-03-18T11:27:51.357Z] STATUS: sys_proxy_server :  s.gravatar.com, 443
+[2025-03-18T11:27:51.360Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:27:51.365Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:27:51.372Z] STATUS: WSS_ConServer_IS_HTTPS 443 : s.gravatar.com:443 , listen_port:19019
+[2025-03-18T11:27:53.750Z] STATUS: sys_proxy_server :  i1.wp.com, 443
+[2025-03-18T11:27:53.753Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:27:53.761Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:27:53.765Z] STATUS: WSS_ConServer_IS_HTTPS 443 : i1.wp.com:443 , listen_port:19020
+[2025-03-18T11:27:56.125Z] STATUS: sys_proxy_server :  cdn.auth0.com, 443
+[2025-03-18T11:27:56.127Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:27:56.128Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:27:56.133Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.auth0.com:443 , listen_port:19021
+[2025-03-18T11:27:57.189Z] STATUS: sys_proxy_server :  translate.google.com, 443
+[2025-03-18T11:27:57.191Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:27:57.193Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:27:57.196Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.google.com:443 , listen_port:19023
+[2025-03-18T11:27:57.297Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:27:57.297Z] STATUS: sys_proxy_server :  19024
+[2025-03-18T11:27:57.298Z] STATUS: upsetHttpsCon :  19024, 443
+[2025-03-18T11:27:57.302Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19024
+[2025-03-18T11:27:57.333Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:27:57.336Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:27:57.337Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:27:57.343Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19026
+[2025-03-18T11:27:57.602Z] STATUS: sys_proxy_server :  translate.google.com, 443
+[2025-03-18T11:27:57.603Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:27:57.604Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:27:57.609Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.google.com:443 , listen_port:19028
+[2025-03-18T11:27:57.619Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:27:57.620Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:27:57.621Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:27:57.623Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19029
+[2025-03-18T11:27:57.774Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:27:57.775Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:27:57.776Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:27:57.780Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19031
+[2025-03-18T11:27:58.199Z] STATUS: sys_proxy_server :  api.monica.im, 443
+[2025-03-18T11:27:58.200Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:27:58.201Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:27:58.204Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.monica.im:443 , listen_port:19028
+[2025-03-18T11:28:10.206Z] STATUS: sys_proxy_server :  edge.microsoft.com, 443
+[2025-03-18T11:28:10.208Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:28:10.213Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:28:10.218Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.microsoft.com:443 , listen_port:19029
+[2025-03-18T11:28:11.218Z] STATUS: sys_proxy_server :  waa-pa.clients6.google.com, 443
+[2025-03-18T11:28:11.220Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:28:11.221Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:28:11.224Z] STATUS: WSS_ConServer_IS_HTTPS 443 : waa-pa.clients6.google.com:443 , listen_port:19031
+[2025-03-18T11:28:11.686Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:28:11.688Z] STATUS: sys_proxy_server :  19032
+[2025-03-18T11:28:11.691Z] STATUS: upsetHttpsCon :  19032, 443
+[2025-03-18T11:28:11.697Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19032
+[2025-03-18T11:28:38.934Z] STATUS: sys_proxy_server :  edge.microsoft.com, 443
+[2025-03-18T11:28:38.935Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:28:38.936Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:28:38.939Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.microsoft.com:443 , listen_port:19019
+[2025-03-18T11:28:40.140Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:28:40.141Z] STATUS: sys_proxy_server :  19032
+[2025-03-18T11:28:40.142Z] STATUS: upsetHttpsCon :  19032, 443
+[2025-03-18T11:28:40.145Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19032
+[2025-03-18T11:28:45.339Z] STATUS: sys_proxy_server :  cdn-azalea-tts-achmg6dqbafjaxcr.a01.azurefd.net, 443
+[2025-03-18T11:28:45.348Z] STATUS: sys_proxy_server :  19034
+[2025-03-18T11:28:45.348Z] STATUS: upsetHttpsCon :  19034, 443
+[2025-03-18T11:28:45.353Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn-azalea-tts-achmg6dqbafjaxcr.a01.azurefd.net:443 , listen_port:19034
+[2025-03-18T11:28:45.637Z] STATUS: sys_proxy_server :  openai.com, 443
+[2025-03-18T11:28:45.638Z] STATUS: sys_proxy_server :  19035
+[2025-03-18T11:28:45.639Z] STATUS: upsetHttpsCon :  19035, 443
+[2025-03-18T11:28:45.642Z] STATUS: WSS_ConServer_IS_HTTPS 443 : openai.com:443 , listen_port:19035
+[2025-03-18T11:28:45.947Z] STATUS: sys_proxy_server :  openai.com, 443
+[2025-03-18T11:28:45.948Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:28:45.952Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:28:45.955Z] STATUS: sys_proxy_server :  openai.com, 443
+[2025-03-18T11:28:45.956Z] STATUS: sys_proxy_server :  19037
+[2025-03-18T11:28:45.957Z] STATUS: upsetHttpsCon :  19037, 443
+[2025-03-18T11:28:45.963Z] STATUS: WSS_ConServer_IS_HTTPS 443 : openai.com:443 , listen_port:19014
+[2025-03-18T11:28:45.967Z] STATUS: WSS_ConServer_IS_HTTPS 443 : openai.com:443 , listen_port:19037
+[2025-03-18T11:28:45.969Z] STATUS: sys_proxy_server :  openai.com, 443
+[2025-03-18T11:28:45.971Z] STATUS: sys_proxy_server :  19038
+[2025-03-18T11:28:45.972Z] STATUS: upsetHttpsCon :  19038, 443
+[2025-03-18T11:28:45.974Z] STATUS: sys_proxy_server :  openai.com, 443
+[2025-03-18T11:28:45.975Z] STATUS: sys_proxy_server :  19039
+[2025-03-18T11:28:45.975Z] STATUS: upsetHttpsCon :  19039, 443
+[2025-03-18T11:28:45.979Z] STATUS: WSS_ConServer_IS_HTTPS 443 : openai.com:443 , listen_port:19038
+[2025-03-18T11:28:45.980Z] STATUS: WSS_ConServer_IS_HTTPS 443 : openai.com:443 , listen_port:19039
+[2025-03-18T11:28:46.220Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:28:46.221Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:28:46.223Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:28:46.231Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19000
+[2025-03-18T11:28:46.280Z] STATUS: sys_proxy_server :  res.public.onecdn.static.microsoft, 443
+[2025-03-18T11:28:46.280Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:28:46.281Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:28:46.284Z] STATUS: WSS_ConServer_IS_HTTPS 443 : res.public.onecdn.static.microsoft:443 , listen_port:19001
+[2025-03-18T11:28:49.387Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:28:49.390Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:28:49.393Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:28:49.396Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19002
+[2025-03-18T11:28:49.974Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:28:49.975Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:28:49.978Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:28:49.981Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19003
+[2025-03-18T11:28:49.983Z] STATUS: sys_proxy_server :  cloudflareinsights.com, 443
+[2025-03-18T11:28:49.983Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:28:49.986Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:28:49.991Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cloudflareinsights.com:443 , listen_port:19005
+[2025-03-18T11:28:50.429Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:28:50.431Z] STATUS: sys_proxy_server :  19006
+[2025-03-18T11:28:50.435Z] STATUS: upsetHttpsCon :  19006, 443
+[2025-03-18T11:28:50.439Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:28:50.440Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:28:50.442Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:28:50.447Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19006
+[2025-03-18T11:28:50.453Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19007
+[2025-03-18T11:28:51.148Z] STATUS: sys_proxy_server :  cloudflareinsights.com, 443
+[2025-03-18T11:28:51.149Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:28:51.155Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:28:51.165Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cloudflareinsights.com:443 , listen_port:19010
+[2025-03-18T11:28:54.746Z] STATUS: sys_proxy_server :  img.youtube.com, 443
+[2025-03-18T11:28:54.747Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:28:54.749Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:28:54.750Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:28:54.753Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:28:54.754Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:28:54.757Z] STATUS: WSS_ConServer_IS_HTTPS 443 : img.youtube.com:443 , listen_port:19002
+[2025-03-18T11:28:54.760Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19007
+[2025-03-18T11:28:55.063Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:28:55.064Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:28:55.068Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:28:55.074Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19012
+[2025-03-18T11:28:55.110Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:28:55.111Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:28:55.112Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:28:55.115Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:28:55.115Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:28:55.116Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:28:55.117Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:28:55.118Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:28:55.119Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:28:55.120Z] STATUS: sys_proxy_server :  encrypted-tbn0.gstatic.com, 443
+[2025-03-18T11:28:55.121Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:28:55.121Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:28:55.124Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19013
+[2025-03-18T11:28:55.127Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19014
+[2025-03-18T11:28:55.129Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19015
+[2025-03-18T11:28:55.132Z] STATUS: WSS_ConServer_IS_HTTPS 443 : encrypted-tbn0.gstatic.com:443 , listen_port:19016
+[2025-03-18T11:28:55.782Z] STATUS: sys_proxy_server :  translate.googleapis.com, 443
+[2025-03-18T11:28:55.782Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:28:55.784Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:28:55.787Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.googleapis.com:443 , listen_port:19012
+[2025-03-18T11:29:00.319Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:29:00.323Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:29:00.326Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:29:00.330Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19013
+[2025-03-18T11:29:10.349Z] STATUS: sys_proxy_server :  main.vscode-cdn.net, 443
+[2025-03-18T11:29:10.350Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:29:10.351Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:29:10.354Z] STATUS: WSS_ConServer_IS_HTTPS 443 : main.vscode-cdn.net:443 , listen_port:19014
+[2025-03-18T11:29:10.754Z] STATUS: sys_proxy_server :  main.vscode-cdn.net, 443
+[2025-03-18T11:29:10.756Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:29:10.758Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:29:10.760Z] STATUS: WSS_ConServer_IS_HTTPS 443 : main.vscode-cdn.net:443 , listen_port:19015
+[2025-03-18T11:29:20.683Z] STATUS: sys_proxy_server :  pub-ent-ussc-03-t.trouter.teams.microsoft.com, 443
+[2025-03-18T11:29:20.683Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:29:20.685Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:29:20.689Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-ent-ussc-03-t.trouter.teams.microsoft.com:443 , listen_port:19016
+[2025-03-18T11:29:23.173Z] STATUS: sys_proxy_server :  pub-ent-ussc-03-t.trouter.teams.microsoft.com, 443
+[2025-03-18T11:29:23.174Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:29:23.179Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:29:23.186Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-ent-ussc-03-t.trouter.teams.microsoft.com:443 , listen_port:19017
+[2025-03-18T11:29:25.704Z] STATUS: sys_proxy_server :  teams.microsoft.com, 443
+[2025-03-18T11:29:25.706Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:29:25.709Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:29:25.714Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.microsoft.com:443 , listen_port:19018
+[2025-03-18T11:29:26.012Z] STATUS: sys_proxy_server :  teams.microsoft.com, 443
+[2025-03-18T11:29:26.014Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:29:26.017Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:29:26.023Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.microsoft.com:443 , listen_port:19019
+[2025-03-18T11:29:26.202Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:29:26.203Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:29:26.204Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:29:26.207Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19020
+[2025-03-18T11:29:49.296Z] STATUS: sys_proxy_server :  android.clients.google.com, 443
+[2025-03-18T11:29:49.297Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:29:49.298Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:29:49.301Z] STATUS: WSS_ConServer_IS_HTTPS 443 : android.clients.google.com:443 , listen_port:19019
+[2025-03-18T11:29:50.590Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:29:50.591Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:29:50.595Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:29:50.601Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19021
+[2025-03-18T11:30:10.193Z] STATUS: sys_proxy_server :  www.ixbrowser.com, 443
+[2025-03-18T11:30:10.195Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:30:10.201Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:30:10.207Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.ixbrowser.com:443 , listen_port:19022
+[2025-03-18T11:30:13.153Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:30:13.156Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:30:13.160Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:30:13.165Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19023
+[2025-03-18T11:30:41.233Z] STATUS: sys_proxy_server :  pub-ent-ussc-03-t.trouter.teams.microsoft.com, 443
+[2025-03-18T11:30:41.234Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:30:41.236Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:30:41.246Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-ent-ussc-03-t.trouter.teams.microsoft.com:443 , listen_port:19005
+[2025-03-18T11:30:41.249Z] STATUS: sys_proxy_server :  mtalk.google.com, 5228
+[2025-03-18T11:30:41.250Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:30:41.250Z] STATUS: upsetHttpsCon :  19000, 5228
+[2025-03-18T11:30:41.255Z] STATUS: sys_proxy_server :  pub-csm-uswe-01-t.trouter.skype.com, 443
+[2025-03-18T11:30:41.256Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:30:41.256Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:30:41.259Z] STATUS: sys_proxy_server :  pub-csm-euwe-00-t.trouter.skype.com, 443
+[2025-03-18T11:30:41.260Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:30:41.260Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:30:41.263Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-uswe-01-t.trouter.skype.com:443 , listen_port:19000
+[2025-03-18T11:30:41.268Z] STATUS: sys_proxy_server :  ssl.gstatic.com, 443
+[2025-03-18T11:30:41.270Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:30:41.270Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:30:41.274Z] STATUS: sys_proxy_server :  mtalk.google.com, 5228
+[2025-03-18T11:30:41.274Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:30:41.276Z] STATUS: upsetHttpsCon :  19000, 5228
+[2025-03-18T11:30:41.277Z] STATUS: sys_proxy_server :  docs.google.com, 443
+[2025-03-18T11:30:41.278Z] STATUS: sys_proxy_server :  19001
+[2025-03-18T11:30:41.279Z] STATUS: upsetHttpsCon :  19001, 443
+[2025-03-18T11:30:41.281Z] STATUS: sys_proxy_server :  pub-csm-euwe-00-t.trouter.skype.com, 443
+[2025-03-18T11:30:41.282Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:30:41.283Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:30:41.285Z] STATUS: WSS_ConServer_IS_HTTPS 443 : mtalk.google.com:5228 , listen_port:19000
+[2025-03-18T11:30:41.288Z] STATUS: WSS_ConServer_IS_HTTPS 443 : docs.google.com:443 , listen_port:19001
+[2025-03-18T11:30:41.290Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-euwe-00-t.trouter.skype.com:443 , listen_port:19002
+[2025-03-18T11:30:41.292Z] STATUS: sys_proxy_server :  ssl.gstatic.com, 443
+[2025-03-18T11:30:41.293Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:30:41.293Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:30:41.295Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ssl.gstatic.com:443 , listen_port:19000
+[2025-03-18T11:30:41.584Z] STATUS: sys_proxy_server :  ssl.gstatic.com, 443
+[2025-03-18T11:30:41.584Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:30:41.585Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:30:41.588Z] STATUS: sys_proxy_server :  docs.google.com, 443
+[2025-03-18T11:30:41.588Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:30:41.589Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:30:41.591Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ssl.gstatic.com:443 , listen_port:19003
+[2025-03-18T11:30:41.592Z] STATUS: WSS_ConServer_IS_HTTPS 443 : docs.google.com:443 , listen_port:19004
+[2025-03-18T11:30:43.763Z] STATUS: sys_proxy_server :  pub-ent-ussc-03-t.trouter.teams.microsoft.com, 443
+[2025-03-18T11:30:43.764Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:30:43.767Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:30:43.771Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-ent-ussc-03-t.trouter.teams.microsoft.com:443 , listen_port:19000
+[2025-03-18T11:30:44.213Z] STATUS: sys_proxy_server :  outlook.live.com, 443
+[2025-03-18T11:30:44.214Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:30:44.216Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:30:44.222Z] STATUS: WSS_ConServer_IS_HTTPS 443 : outlook.live.com:443 , listen_port:19003
+[2025-03-18T11:30:45.139Z] STATUS: sys_proxy_server :  pub-csm-euwe-00-t.trouter.skype.com, 443
+[2025-03-18T11:30:45.141Z] STATUS: sys_proxy_server :  19004
+[2025-03-18T11:30:45.146Z] STATUS: upsetHttpsCon :  19004, 443
+[2025-03-18T11:30:45.153Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-euwe-00-t.trouter.skype.com:443 , listen_port:19004
+[2025-03-18T11:30:45.206Z] STATUS: sys_proxy_server :  waa-pa.clients6.google.com, 443
+[2025-03-18T11:30:45.206Z] STATUS: sys_proxy_server :  19006
+[2025-03-18T11:30:45.208Z] STATUS: upsetHttpsCon :  19006, 443
+[2025-03-18T11:30:45.212Z] STATUS: WSS_ConServer_IS_HTTPS 443 : waa-pa.clients6.google.com:443 , listen_port:19006
+[2025-03-18T11:30:45.213Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:30:45.214Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:30:45.215Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:30:45.218Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19007
+[2025-03-18T11:30:45.293Z] STATUS: sys_proxy_server :  alive.github.com, 443
+[2025-03-18T11:30:45.294Z] STATUS: sys_proxy_server :  19008
+[2025-03-18T11:30:45.297Z] STATUS: upsetHttpsCon :  19008, 443
+[2025-03-18T11:30:45.300Z] STATUS: WSS_ConServer_IS_HTTPS 443 : alive.github.com:443 , listen_port:19008
+[2025-03-18T11:30:45.527Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:30:45.528Z] STATUS: sys_proxy_server :  19009
+[2025-03-18T11:30:45.530Z] STATUS: upsetHttpsCon :  19009, 443
+[2025-03-18T11:30:45.532Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19009
+[2025-03-18T11:30:46.216Z] STATUS: sys_proxy_server :  pub-csm-uswe-01-t.trouter.skype.com, 443
+[2025-03-18T11:30:46.217Z] STATUS: sys_proxy_server :  19009
+[2025-03-18T11:30:46.218Z] STATUS: upsetHttpsCon :  19009, 443
+[2025-03-18T11:30:46.222Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-uswe-01-t.trouter.skype.com:443 , listen_port:19009
+[2025-03-18T11:30:46.461Z] STATUS: sys_proxy_server :  teams.microsoft.com, 443
+[2025-03-18T11:30:46.462Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:30:46.464Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:30:46.468Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.microsoft.com:443 , listen_port:19010
+[2025-03-18T11:30:46.773Z] STATUS: sys_proxy_server :  teams.microsoft.com, 443
+[2025-03-18T11:30:46.774Z] STATUS: sys_proxy_server :  19011
+[2025-03-18T11:30:46.776Z] STATUS: upsetHttpsCon :  19011, 443
+[2025-03-18T11:30:46.779Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.microsoft.com:443 , listen_port:19011
+[2025-03-18T11:30:47.090Z] STATUS: sys_proxy_server :  edge.skype.com, 443
+[2025-03-18T11:30:47.091Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:30:47.092Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:30:47.104Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.skype.com:443 , listen_port:19012
+[2025-03-18T11:30:47.868Z] STATUS: sys_proxy_server :  edge.microsoft.com, 443
+[2025-03-18T11:30:47.870Z] STATUS: sys_proxy_server :  19011
+[2025-03-18T11:30:47.871Z] STATUS: upsetHttpsCon :  19011, 443
+[2025-03-18T11:30:47.875Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.microsoft.com:443 , listen_port:19011
+[2025-03-18T11:30:48.546Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:30:48.546Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:30:48.547Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:30:48.551Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19013
+[2025-03-18T11:30:48.568Z] STATUS: sys_proxy_server :  www.google-analytics.com, 443
+[2025-03-18T11:30:48.569Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:30:48.570Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:30:48.572Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google-analytics.com:443 , listen_port:19014
+[2025-03-18T11:30:48.614Z] STATUS: sys_proxy_server :  emea.presence.teams.live.com, 443
+[2025-03-18T11:30:48.615Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:30:48.616Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:30:48.619Z] STATUS: WSS_ConServer_IS_HTTPS 443 : emea.presence.teams.live.com:443 , listen_port:19015
+[2025-03-18T11:30:50.156Z] STATUS: sys_proxy_server :  pub-csm-uswe-01-t.trouter.skype.com, 443
+[2025-03-18T11:30:50.156Z] STATUS: sys_proxy_server :  19016
+[2025-03-18T11:30:50.158Z] STATUS: upsetHttpsCon :  19016, 443
+[2025-03-18T11:30:50.161Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-csm-uswe-01-t.trouter.skype.com:443 , listen_port:19016
+[2025-03-18T11:30:52.930Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:30:52.933Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:30:52.936Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:30:52.943Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19017
+[2025-03-18T11:30:52.959Z] STATUS: sys_proxy_server :  emea.presence.skype.com, 443
+[2025-03-18T11:30:52.960Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:30:52.961Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:30:52.965Z] STATUS: WSS_ConServer_IS_HTTPS 443 : emea.presence.skype.com:443 , listen_port:19018
+[2025-03-18T11:30:52.966Z] STATUS: sys_proxy_server :  prod.registrar.skype.com, 443
+[2025-03-18T11:30:52.967Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:30:52.967Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:30:52.971Z] STATUS: WSS_ConServer_IS_HTTPS 443 : prod.registrar.skype.com:443 , listen_port:19019
+[2025-03-18T11:31:02.522Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:31:02.523Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:31:02.527Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:31:02.533Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19019
+[2025-03-18T11:31:07.624Z] STATUS: sys_proxy_server :  chatgpt.com, 443
+[2025-03-18T11:31:07.626Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:31:07.629Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:31:07.636Z] STATUS: WSS_ConServer_IS_HTTPS 443 : chatgpt.com:443 , listen_port:19020
+[2025-03-18T11:31:08.184Z] STATUS: sys_proxy_server :  ab.chatgpt.com, 443
+[2025-03-18T11:31:08.185Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:31:08.187Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:31:08.189Z] STATUS: WSS_ConServer_IS_HTTPS 443 : ab.chatgpt.com:443 , listen_port:19021
+[2025-03-18T11:31:08.212Z] STATUS: sys_proxy_server :  chatgpt.com, 443
+[2025-03-18T11:31:08.212Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:31:08.214Z] STATUS: upsetHttpsCon :  19022, 443
+[2025-03-18T11:31:08.216Z] STATUS: WSS_ConServer_IS_HTTPS 443 : chatgpt.com:443 , listen_port:19022
+[2025-03-18T11:31:08.480Z] STATUS: sys_proxy_server :  chatgpt.com, 443
+[2025-03-18T11:31:08.481Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:31:08.484Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:31:08.491Z] STATUS: WSS_ConServer_IS_HTTPS 443 : chatgpt.com:443 , listen_port:19023
+[2025-03-18T11:31:09.239Z] STATUS: sys_proxy_server :  mtalk.google.com, 5228
+[2025-03-18T11:31:09.241Z] STATUS: sys_proxy_server :  19022
+[2025-03-18T11:31:09.245Z] STATUS: upsetHttpsCon :  19022, 5228
+[2025-03-18T11:31:09.251Z] STATUS: WSS_ConServer_IS_HTTPS 443 : mtalk.google.com:5228 , listen_port:19022
+[2025-03-18T11:31:11.872Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:31:11.876Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:31:11.882Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:31:11.904Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19023
+[2025-03-18T11:31:21.937Z] STATUS: sys_proxy_server :  api.monica.im, 443
+[2025-03-18T11:31:21.938Z] STATUS: sys_proxy_server :  19024
+[2025-03-18T11:31:21.939Z] STATUS: upsetHttpsCon :  19024, 443
+[2025-03-18T11:31:21.943Z] STATUS: WSS_ConServer_IS_HTTPS 443 : api.monica.im:443 , listen_port:19024
+[2025-03-18T11:31:24.429Z] STATUS: sys_proxy_server :  cdn.oaistatic.com, 443
+[2025-03-18T11:31:24.430Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:31:24.432Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:31:24.435Z] STATUS: WSS_ConServer_IS_HTTPS 443 : cdn.oaistatic.com:443 , listen_port:19023
+[2025-03-18T11:31:25.645Z] STATUS: sys_proxy_server :  optimizationguide-pa.googleapis.com, 443
+[2025-03-18T11:31:25.653Z] STATUS: sys_proxy_server :  19025
+[2025-03-18T11:31:25.655Z] STATUS: upsetHttpsCon :  19025, 443
+[2025-03-18T11:31:25.659Z] STATUS: WSS_ConServer_IS_HTTPS 443 : optimizationguide-pa.googleapis.com:443 , listen_port:19025
+[2025-03-18T11:31:30.857Z] STATUS: sys_proxy_server :  www.youtube.com, 443
+[2025-03-18T11:31:30.860Z] STATUS: sys_proxy_server :  19026
+[2025-03-18T11:31:30.862Z] STATUS: upsetHttpsCon :  19026, 443
+[2025-03-18T11:31:30.865Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.youtube.com:443 , listen_port:19026
+[2025-03-18T11:31:30.948Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:31:30.949Z] STATUS: sys_proxy_server :  19027
+[2025-03-18T11:31:30.950Z] STATUS: upsetHttpsCon :  19027, 443
+[2025-03-18T11:31:30.952Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:31:30.953Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:31:30.954Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:31:30.957Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19027
+[2025-03-18T11:31:30.959Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19028
+[2025-03-18T11:31:32.150Z] STATUS: sys_proxy_server :  t1.gstatic.com, 443
+[2025-03-18T11:31:32.152Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:31:32.155Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:31:32.157Z] STATUS: sys_proxy_server :  t2.gstatic.com, 443
+[2025-03-18T11:31:32.158Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:31:32.159Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:31:32.161Z] STATUS: WSS_ConServer_IS_HTTPS 443 : t1.gstatic.com:443 , listen_port:19028
+[2025-03-18T11:31:32.163Z] STATUS: WSS_ConServer_IS_HTTPS 443 : t2.gstatic.com:443 , listen_port:19029
+[2025-03-18T11:31:32.782Z] STATUS: sys_proxy_server :  fonts.gstatic.com, 443
+[2025-03-18T11:31:32.784Z] STATUS: sys_proxy_server :  19030
+[2025-03-18T11:31:32.786Z] STATUS: upsetHttpsCon :  19030, 443
+[2025-03-18T11:31:32.789Z] STATUS: WSS_ConServer_IS_HTTPS 443 : fonts.gstatic.com:443 , listen_port:19030
+[2025-03-18T11:31:33.618Z] STATUS: sys_proxy_server :  i.ytimg.com, 443
+[2025-03-18T11:31:33.618Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:31:33.620Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:31:33.622Z] STATUS: WSS_ConServer_IS_HTTPS 443 : i.ytimg.com:443 , listen_port:19031
+[2025-03-18T11:31:47.984Z] STATUS: sys_proxy_server :  static.doubleclick.net, 443
+[2025-03-18T11:31:47.985Z] STATUS: sys_proxy_server :  19032
+[2025-03-18T11:31:47.986Z] STATUS: upsetHttpsCon :  19032, 443
+[2025-03-18T11:31:47.995Z] STATUS: WSS_ConServer_IS_HTTPS 443 : static.doubleclick.net:443 , listen_port:19032
+[2025-03-18T11:31:48.024Z] STATUS: sys_proxy_server :  jnn-pa.googleapis.com, 443
+[2025-03-18T11:31:48.025Z] STATUS: sys_proxy_server :  19033
+[2025-03-18T11:31:48.027Z] STATUS: upsetHttpsCon :  19033, 443
+[2025-03-18T11:31:48.031Z] STATUS: WSS_ConServer_IS_HTTPS 443 : jnn-pa.googleapis.com:443 , listen_port:19033
+[2025-03-18T11:31:48.049Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:31:48.050Z] STATUS: sys_proxy_server :  19034
+[2025-03-18T11:31:48.051Z] STATUS: upsetHttpsCon :  19034, 443
+[2025-03-18T11:31:48.054Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19034
+[2025-03-18T11:31:48.105Z] STATUS: sys_proxy_server :  yt3.ggpht.com, 443
+[2025-03-18T11:31:48.105Z] STATUS: sys_proxy_server :  19035
+[2025-03-18T11:31:48.107Z] STATUS: upsetHttpsCon :  19035, 443
+[2025-03-18T11:31:48.111Z] STATUS: WSS_ConServer_IS_HTTPS 443 : yt3.ggpht.com:443 , listen_port:19035
+[2025-03-18T11:31:48.951Z] STATUS: sys_proxy_server :  jnn-pa.googleapis.com, 443
+[2025-03-18T11:31:48.952Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:31:48.955Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:31:48.960Z] STATUS: WSS_ConServer_IS_HTTPS 443 : jnn-pa.googleapis.com:443 , listen_port:19012
+[2025-03-18T11:31:48.979Z] STATUS: sys_proxy_server :  i.ytimg.com, 443
+[2025-03-18T11:31:48.981Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:31:48.982Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:31:48.985Z] STATUS: WSS_ConServer_IS_HTTPS 443 : i.ytimg.com:443 , listen_port:19000
+[2025-03-18T11:31:49.541Z] STATUS: sys_proxy_server :  www.gstatic.com, 443
+[2025-03-18T11:31:49.542Z] STATUS: sys_proxy_server :  19002
+[2025-03-18T11:31:49.542Z] STATUS: upsetHttpsCon :  19002, 443
+[2025-03-18T11:31:49.546Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.gstatic.com:443 , listen_port:19002
+[2025-03-18T11:31:50.616Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:31:50.626Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:31:50.627Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:31:50.631Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19003
+[2025-03-18T11:31:50.632Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:31:50.633Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:31:50.633Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:31:50.636Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19005
+[2025-03-18T11:31:51.175Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:31:51.175Z] STATUS: sys_proxy_server :  19006
+[2025-03-18T11:31:51.177Z] STATUS: upsetHttpsCon :  19006, 443
+[2025-03-18T11:31:51.180Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19006
+[2025-03-18T11:31:51.181Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:31:51.182Z] STATUS: sys_proxy_server :  19007
+[2025-03-18T11:31:51.182Z] STATUS: upsetHttpsCon :  19007, 443
+[2025-03-18T11:31:51.184Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19007
+[2025-03-18T11:31:51.747Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:31:51.763Z] STATUS: sys_proxy_server :  19009
+[2025-03-18T11:31:51.764Z] STATUS: upsetHttpsCon :  19009, 443
+[2025-03-18T11:31:51.767Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19009
+[2025-03-18T11:31:51.768Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:31:51.769Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:31:51.770Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:31:51.772Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19010
+[2025-03-18T11:31:54.442Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:31:54.444Z] STATUS: sys_proxy_server :  19003
+[2025-03-18T11:31:54.449Z] STATUS: upsetHttpsCon :  19003, 443
+[2025-03-18T11:31:54.455Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19003
+[2025-03-18T11:32:05.221Z] STATUS: sys_proxy_server :  chatgpt.com, 443
+[2025-03-18T11:32:05.224Z] STATUS: sys_proxy_server :  19005
+[2025-03-18T11:32:05.228Z] STATUS: upsetHttpsCon :  19005, 443
+[2025-03-18T11:32:05.235Z] STATUS: WSS_ConServer_IS_HTTPS 443 : chatgpt.com:443 , listen_port:19005
+[2025-03-18T11:32:05.236Z] STATUS: sys_proxy_server :  browser-intake-datadoghq.com, 443
+[2025-03-18T11:32:05.237Z] STATUS: sys_proxy_server :  19006
+[2025-03-18T11:32:05.237Z] STATUS: upsetHttpsCon :  19006, 443
+[2025-03-18T11:32:05.240Z] STATUS: WSS_ConServer_IS_HTTPS 443 : browser-intake-datadoghq.com:443 , listen_port:19006
+[2025-03-18T11:32:07.190Z] STATUS: sys_proxy_server :  outlook.live.com, 443
+[2025-03-18T11:32:07.192Z] STATUS: sys_proxy_server :  19009
+[2025-03-18T11:32:07.196Z] STATUS: upsetHttpsCon :  19009, 443
+[2025-03-18T11:32:07.202Z] STATUS: WSS_ConServer_IS_HTTPS 443 : outlook.live.com:443 , listen_port:19009
+[2025-03-18T11:32:11.931Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:32:11.933Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:32:11.936Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:32:11.943Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19010
+[2025-03-18T11:32:17.568Z] STATUS: sys_proxy_server :  teams.events.data.microsoft.com, 443
+[2025-03-18T11:32:17.569Z] STATUS: sys_proxy_server :  19011
+[2025-03-18T11:32:17.571Z] STATUS: upsetHttpsCon :  19011, 443
+[2025-03-18T11:32:17.573Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.events.data.microsoft.com:443 , listen_port:19011
+[2025-03-18T11:32:19.339Z] STATUS: sys_proxy_server :  teams.events.data.microsoft.com, 443
+[2025-03-18T11:32:19.340Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:32:19.344Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:32:19.350Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.events.data.microsoft.com:443 , listen_port:19012
+[2025-03-18T11:32:55.157Z] STATUS: sys_proxy_server :  google.com, 443
+[2025-03-18T11:32:55.158Z] STATUS: sys_proxy_server :  19010
+[2025-03-18T11:32:55.162Z] STATUS: upsetHttpsCon :  19010, 443
+[2025-03-18T11:32:55.164Z] STATUS: WSS_ConServer_IS_HTTPS 443 : google.com:443 , listen_port:19010
+[2025-03-18T11:32:57.660Z] STATUS: sys_proxy_server :  beacons.gcp.gvt2.com, 443
+[2025-03-18T11:32:57.662Z] STATUS: sys_proxy_server :  19013
+[2025-03-18T11:32:57.666Z] STATUS: upsetHttpsCon :  19013, 443
+[2025-03-18T11:32:57.673Z] STATUS: WSS_ConServer_IS_HTTPS 443 : beacons.gcp.gvt2.com:443 , listen_port:19013
+[2025-03-18T11:33:11.209Z] STATUS: sys_proxy_server :  edge.microsoft.com, 443
+[2025-03-18T11:33:11.211Z] STATUS: sys_proxy_server :  19014
+[2025-03-18T11:33:11.216Z] STATUS: upsetHttpsCon :  19014, 443
+[2025-03-18T11:33:11.223Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.microsoft.com:443 , listen_port:19014
+[2025-03-18T11:33:11.985Z] STATUS: sys_proxy_server :  www.google.com, 443
+[2025-03-18T11:33:11.986Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:33:11.990Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:33:11.997Z] STATUS: WSS_ConServer_IS_HTTPS 443 : www.google.com:443 , listen_port:19015
+[2025-03-18T11:33:12.219Z] STATUS: sys_proxy_server :  waa-pa.clients6.google.com, 443
+[2025-03-18T11:33:12.221Z] STATUS: sys_proxy_server :  19017
+[2025-03-18T11:33:12.223Z] STATUS: upsetHttpsCon :  19017, 443
+[2025-03-18T11:33:12.226Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:33:12.227Z] STATUS: sys_proxy_server :  19018
+[2025-03-18T11:33:12.227Z] STATUS: upsetHttpsCon :  19018, 443
+[2025-03-18T11:33:12.230Z] STATUS: WSS_ConServer_IS_HTTPS 443 : waa-pa.clients6.google.com:443 , listen_port:19017
+[2025-03-18T11:33:12.232Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19018
+[2025-03-18T11:33:12.529Z] STATUS: sys_proxy_server :  play.google.com, 443
+[2025-03-18T11:33:12.530Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:33:12.534Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:33:12.540Z] STATUS: WSS_ConServer_IS_HTTPS 443 : play.google.com:443 , listen_port:19019
+[2025-03-18T11:33:26.196Z] STATUS: sys_proxy_server :  accounts.google.com, 443
+[2025-03-18T11:33:26.198Z] STATUS: sys_proxy_server :  19015
+[2025-03-18T11:33:26.202Z] STATUS: upsetHttpsCon :  19015, 443
+[2025-03-18T11:33:26.214Z] STATUS: WSS_ConServer_IS_HTTPS 443 : accounts.google.com:443 , listen_port:19015
+[2025-03-18T11:33:46.229Z] STATUS: sys_proxy_server :  fp.config.skype.com, 443
+[2025-03-18T11:33:46.230Z] STATUS: sys_proxy_server :  19019
+[2025-03-18T11:33:46.232Z] STATUS: upsetHttpsCon :  19019, 443
+[2025-03-18T11:33:46.235Z] STATUS: WSS_ConServer_IS_HTTPS 443 : fp.config.skype.com:443 , listen_port:19019
+[2025-03-18T11:33:48.193Z] STATUS: sys_proxy_server :  edge.skype.com, 443
+[2025-03-18T11:33:48.195Z] STATUS: sys_proxy_server :  19020
+[2025-03-18T11:33:48.199Z] STATUS: upsetHttpsCon :  19020, 443
+[2025-03-18T11:33:48.205Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.skype.com:443 , listen_port:19020
+[2025-03-18T11:33:48.206Z] STATUS: sys_proxy_server :  a-ring.msedge.net, 443
+[2025-03-18T11:33:48.207Z] STATUS: sys_proxy_server :  19021
+[2025-03-18T11:33:48.208Z] STATUS: upsetHttpsCon :  19021, 443
+[2025-03-18T11:33:48.211Z] STATUS: WSS_ConServer_IS_HTTPS 443 : a-ring.msedge.net:443 , listen_port:19021
+[2025-03-18T11:33:51.072Z] STATUS: sys_proxy_server :  k-ring.msedge.net, 443
+[2025-03-18T11:33:51.073Z] STATUS: sys_proxy_server :  19023
+[2025-03-18T11:33:51.077Z] STATUS: upsetHttpsCon :  19023, 443
+[2025-03-18T11:33:51.084Z] STATUS: WSS_ConServer_IS_HTTPS 443 : k-ring.msedge.net:443 , listen_port:19023
+[2025-03-18T11:33:52.746Z] STATUS: sys_proxy_server :  a-ring.msedge.net, 443
+[2025-03-18T11:33:52.748Z] STATUS: sys_proxy_server :  19024
+[2025-03-18T11:33:52.751Z] STATUS: upsetHttpsCon :  19024, 443
+[2025-03-18T11:33:52.757Z] STATUS: WSS_ConServer_IS_HTTPS 443 : a-ring.msedge.net:443 , listen_port:19024
+[2025-03-18T11:33:56.329Z] STATUS: sys_proxy_server :  k-ring.msedge.net, 443
+[2025-03-18T11:33:56.331Z] STATUS: sys_proxy_server :  19025
+[2025-03-18T11:33:56.335Z] STATUS: upsetHttpsCon :  19025, 443
+[2025-03-18T11:33:56.341Z] STATUS: WSS_ConServer_IS_HTTPS 443 : k-ring.msedge.net:443 , listen_port:19025
+[2025-03-18T11:33:59.937Z] STATUS: sys_proxy_server :  fpc.msedge.net, 443
+[2025-03-18T11:33:59.940Z] STATUS: sys_proxy_server :  19027
+[2025-03-18T11:33:59.943Z] STATUS: upsetHttpsCon :  19027, 443
+[2025-03-18T11:33:59.949Z] STATUS: WSS_ConServer_IS_HTTPS 443 : fpc.msedge.net:443 , listen_port:19027
+[2025-03-18T11:34:08.155Z] STATUS: sys_proxy_server :  clientservices.googleapis.com, 443
+[2025-03-18T11:34:08.157Z] STATUS: sys_proxy_server :  19028
+[2025-03-18T11:34:08.160Z] STATUS: upsetHttpsCon :  19028, 443
+[2025-03-18T11:34:08.164Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clientservices.googleapis.com:443 , listen_port:19028
+[2025-03-18T11:34:08.465Z] STATUS: sys_proxy_server :  clientservices.googleapis.com, 443
+[2025-03-18T11:34:08.466Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:34:08.471Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:34:08.477Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clientservices.googleapis.com:443 , listen_port:19029
+[2025-03-18T11:34:10.434Z] STATUS: sys_proxy_server :  clients4.google.com, 443
+[2025-03-18T11:34:10.436Z] STATUS: sys_proxy_server :  19029
+[2025-03-18T11:34:10.440Z] STATUS: upsetHttpsCon :  19029, 443
+[2025-03-18T11:34:10.446Z] STATUS: WSS_ConServer_IS_HTTPS 443 : clients4.google.com:443 , listen_port:19029
+[2025-03-18T11:34:12.372Z] STATUS: sys_proxy_server :  main.vscode-cdn.net, 443
+[2025-03-18T11:34:12.374Z] STATUS: sys_proxy_server :  19030
+[2025-03-18T11:34:12.377Z] STATUS: upsetHttpsCon :  19030, 443
+[2025-03-18T11:34:12.384Z] STATUS: WSS_ConServer_IS_HTTPS 443 : main.vscode-cdn.net:443 , listen_port:19030
+[2025-03-18T11:34:13.306Z] STATUS: sys_proxy_server :  main.vscode-cdn.net, 443
+[2025-03-18T11:34:13.307Z] STATUS: sys_proxy_server :  19031
+[2025-03-18T11:34:13.311Z] STATUS: upsetHttpsCon :  19031, 443
+[2025-03-18T11:34:13.317Z] STATUS: WSS_ConServer_IS_HTTPS 443 : main.vscode-cdn.net:443 , listen_port:19031
+[2025-03-18T11:34:38.837Z] STATUS: sys_proxy_server :  pub-ent-ussc-03-t.trouter.teams.microsoft.com, 443
+[2025-03-18T11:34:38.838Z] STATUS: sys_proxy_server :  19000
+[2025-03-18T11:34:38.841Z] STATUS: upsetHttpsCon :  19000, 443
+[2025-03-18T11:34:38.847Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-ent-ussc-03-t.trouter.teams.microsoft.com:443 , listen_port:19000
+[2025-03-18T11:34:41.355Z] STATUS: sys_proxy_server :  pub-ent-ussc-03-t.trouter.teams.microsoft.com, 443
+[2025-03-18T11:34:41.356Z] STATUS: sys_proxy_server :  19011
+[2025-03-18T11:34:41.358Z] STATUS: upsetHttpsCon :  19011, 443
+[2025-03-18T11:34:41.362Z] STATUS: WSS_ConServer_IS_HTTPS 443 : pub-ent-ussc-03-t.trouter.teams.microsoft.com:443 , listen_port:19011
+[2025-03-18T11:34:43.665Z] STATUS: sys_proxy_server :  edge.microsoft.com, 443
+[2025-03-18T11:34:43.666Z] STATUS: sys_proxy_server :  19012
+[2025-03-18T11:34:43.667Z] STATUS: upsetHttpsCon :  19012, 443
+[2025-03-18T11:34:43.670Z] STATUS: WSS_ConServer_IS_HTTPS 443 : edge.microsoft.com:443 , listen_port:19012
+[2025-03-18T11:34:43.932Z] STATUS: sys_proxy_server :  teams.microsoft.com, 443
+[2025-03-18T11:34:43.933Z] STATUS: sys_proxy_server :  19036
+[2025-03-18T11:34:43.935Z] STATUS: upsetHttpsCon :  19036, 443
+[2025-03-18T11:34:43.938Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.microsoft.com:443 , listen_port:19036
+[2025-03-18T11:34:44.236Z] STATUS: sys_proxy_server :  teams.microsoft.com, 443
+[2025-03-18T11:34:44.238Z] STATUS: sys_proxy_server :  19037
+[2025-03-18T11:34:44.241Z] STATUS: upsetHttpsCon :  19037, 443
+[2025-03-18T11:34:44.248Z] STATUS: WSS_ConServer_IS_HTTPS 443 : teams.microsoft.com:443 , listen_port:19037
+[2025-03-18T11:34:46.206Z] STATUS: sys_proxy_server :  translate.google.com, 443
+[2025-03-18T11:34:46.208Z] STATUS: sys_proxy_server :  19037
+[2025-03-18T11:34:46.211Z] STATUS: upsetHttpsCon :  19037, 443
+[2025-03-18T11:34:46.215Z] STATUS: WSS_ConServer_IS_HTTPS 443 : translate.google.com:443 , listen_port:19037
